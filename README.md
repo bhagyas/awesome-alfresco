@@ -79,8 +79,10 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 
 
 ###Email
+- [Alfresco Discussions](https://github.com/malariagen/alfresco-discussions) - Send an email to all site members whenever a discussion topic is created/updated. This extension also allows you to reply to the notification via email
 - [Alfresco RFC822/EML tweaks](https://github.com/deas/contentreich-eml) -  Alfresco RFC822/EML tweaks
 - [Inbound Invites] (https://github.com/jpotts/share-inbound-invites) - send calendar invitations to an Alfresco Share site
+
 
 ###Encryption
 - [Alfresco Encryption Module] (https://github.com/thinhnk55/Alfresco-Encryption-Module) - Extends features of Alfresco system, which allows users to encrypt and decrypt their data on repository. 
@@ -138,12 +140,14 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [Alfresco ATL Connector] (https://github.com/Open-Wide/alfresco-etl-connector) - The ETL Connector extension for Alfresco allows to import documents in an Alfresco repository by using compatible ETL Tools.
 - [Alfresco Max Version Policy](https://github.com/jottley/alfresco-maxversion-policy) - Alfresco Max Version Policy limits the number of versions that are created for a versioned node.
 - [Alfresco My Files Quota](https://github.com/keensoft/alfresco-myfiles-quota) - Define quota policies on My Files folder for each user
+- [Alfresco Shell Tools] (https://github.com/bmejias/alfresco-shell-tools) - Command line tools to admin Alfresco. Migrated from Google Code
 - [Alfresco Trashcan Cleaner] (https://github.com/atolcd/alfresco-trashcan-cleaner) - This Alfresco module periodically purges old content from the Alfresco trashcan.
 - [AuditShare for Alfresco](https://github.com/atolcd/alfresco-audit-share) - displays sites and repository usage info.
 - [AuditSurf](https://github.com/atolcd/alfresco-auditsurf) - AuditSurf is a SURF app displaying repository usage info
 - [FileSynchronizer](https://github.com/bms-devs/FileSynchronizer) - Small tool for synchronizing local files with remote server (based on ssh) or Alfresco (based on http)
 - [MassiveDelete] (https://github.com/fsforna/MassiveDelete) - A simple Alfresco massive deletion batch.
 - [OOTBEE Support Tools](https://github.com/AFaust/ootbee-support-tools) - "Liberated" variant of the Alfresco Support Tools addon
+
 
 ###Records Management
 - [Alfresco Records Management] (https://github.com/Alfresco/records-management) - Offical Alfresco Records Management Community Source Code 
@@ -156,8 +160,11 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 ###Share
 - [Alfresco Default User Avatars] (https://github.com/fmaul/alfresco-default-user-avatars) - Alfresco module that creates color coded avatars for users without a personal profile picture
 - [Alfresco Share Clipboard](https://github.com/fmaul/alfresco-share-clipboard) - This extensions adds a Clipboard to the Alfresco Share document library that allows collecting documents.
+- [Alfresco Share Site Creators](https://github.com/jpotts/share-site-creators) - An Alfresco add-on that limits site creation to those in a specific group.
 - [Alfresco Share Site Logo Customization] (https://github.com/douglascrp/alfresco-share-site-logo-customization) - This addon will allow you to set a different logo for each Alfresco Site
 - [Alfresco Unzip Action] (https://github.com/atolcd/alfresco-unzip-action) - This extension allows you to add "Unzip" action in Alfresco Share Document Library web tier (available in both Document Library site and repository).
+
+
 
 ###Share Dashlets
 - [Alfresco Favorite Folders Dashlet] (https://github.com/loftuxab/alfresco-favorite-folders-dashlet) - Adds favorite folder dashlet to Alfresco Share
