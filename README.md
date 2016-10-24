@@ -38,7 +38,11 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [Alfresco Datalists] (https://github.com/deas/contentreich-alfresco-datalists) - Datalist Extensions for Alfresco Share
 - [alfresco-datalist-constraints](https://github.com/keensoft/alfresco-datalist-constraints) - Use datalists to maintain Alfresco model constraints
 - [AlfrescoDataListDownload](https://github.com/Gagravarr/AlfrescoDataListDownload) - Download as Spreadsheet support for Alfresco DataLists
+- [Alfresco List Manager](https://github.com/Redpill-Linpro/alfresco-listmanager) - Component used to manage custom list of values used in metadata forms.
 
+
+###Desktop Sync
+- [CMISSync] (https://github.com/aegif/CmisSync) - Synchronize content between a CMIS repository and your desktop. Like Dropbox for Enterprise Content Management!
 
 ###Development
 - [Aikau] (https://github.com/Alfresco/Aikau) - Aikau UI Framework
