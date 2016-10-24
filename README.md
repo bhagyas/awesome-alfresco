@@ -4,10 +4,6 @@
 #About
 Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more.
 
-##Notes
-The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
-
-
 ##Content
 
 ###Auditing
@@ -185,6 +181,10 @@ The classification will change with time. Currently, it's used as a basic catego
 - [Alfresco Utility](https://github.com/Acosix/alfresco-utility) - Project to consolidate abstract utility features that may be reused across functional Alfresco modules
 - [Alfresco Tooling] (https://github.com/Redpill-Linpro/Alfresco-Tooling) - Common Alfresco tooling, scripts and test setups.
 
+
+
+##Notes
+The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
 
 
 ##Contributing and License
