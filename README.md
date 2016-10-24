@@ -7,13 +7,13 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 ##Content
 
 ###Auditing
-- [Alfresco Audit Dashlet] (https://github.com/share-extras/audit-dashlet) - Dashlet to view Alfresco audit logs
 - [Alfresco Audit Analysis and Reporting] (https://github.com/fcorti/alfresco-audit-analysis-reporting) - A.A.A.R. – Alfresco Audit Analysis and Reporting
+- [Alfresco Audit Dashlet] (https://github.com/share-extras/audit-dashlet) - Dashlet to view Alfresco audit logs
 
 ### Authentication and Authorization
+- [alfresco-agreement-filter] (https://github.com/keensoft/alfresco-agreement-filter) - This extension adds a must read page for every user before starting to use Alfresco.
 - [Share oAuth] (https://github.com/share-extras/share-oauth) - Spring Surf extension allowing remote endpoints to be easily set up against OAuth 1.0 and OAuth 2.0 services
 - [Share oAuth SSO] (https://github.com/gdepourtales/share-oauth-sso) - Alfresco Share OAuth SSO Support
-- [alfresco-agreement-filter] (https://github.com/keensoft/alfresco-agreement-filter) - This extension adds a must read page for every user before starting to use Alfresco.
 
 ###Backup and Restore
 - [Alfresco BART - Backup and Recovery Tool] (https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Alfresco BART is a tool written in shell script on top of Duplicity for doing Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
@@ -45,14 +45,13 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [Aikau] (https://github.com/Alfresco/Aikau) - Aikau UI Framework
 - [Alfresco Javascript Console] (https://github.com/share-extras/js-console) - Administration Console component for Alfresco Share, that enables the execution of arbitrary JavaScript code against the repository
 - [Alfresco Maven] (https://github.com/Acosix/alfresco-maven) - Base Maven setup of parent POM, common definitions and plugins for building Alfresco modules without Alfresco SDK (except for a single plugin mojo)
-- [Dynamic Extensions for Alfresco] (https://github.com/laurentvdl/dynamic-extensions-for-alfresco) - Rapid development of Alfresco repository extensions in Java. Deploy your code in seconds, not minutes. Life is too short for endless server restarts.
 - [alfresco-jscript-extensions](https://github.com/jgoldhammer/alfresco-jscript-extensions) - Alfresco repository module with helpful javascript root object extensions which are helpful in much scenarios.
-- [generator-alfresco](https://github.com/binduwavell/generator-alfresco) - A Yeomen generator based on the Alfresco all-in-one Maven archetype with some generators and an opinionated project structure. 
 - [alfresco-ng2-components](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Angular 2 components
 - [Alfresco JavaScript Batch Executer] (https://github.com/ciber/alfresco-js-batch-executer)- Alfresco easy bulk processing with JavaScript
 - [Alfresco Enhanced Script Environment](https://github.com/AFaust/alfresco-enhanced-script-environment) - Provide additional functionality for the server-side JavaScript environments of both the Alfresco Repository and Alfresco Share tier.
 - [Alfresco @mvc] (https://github.com/dgradecak/alfresco-mvc) - Enables the usage of Spring @MVC within Alfresco.
-
+- [Dynamic Extensions for Alfresco] (https://github.com/laurentvdl/dynamic-extensions-for-alfresco) - Rapid development of Alfresco repository extensions in Java. Deploy your code in seconds, not minutes. Life is too short for endless server restarts.
+- [generator-alfresco](https://github.com/binduwavell/generator-alfresco) - A Yeomen generator based on the Alfresco all-in-one Maven archetype with some generators and an opinionated project structure. 
 
 
 ###Deployment and Installation
@@ -66,10 +65,8 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 
 
 ###Digital Signatures
-- [CounterSign] (https://github.com/ntmcminn/CounterSign) -  A digital signature solution for Alfresco
 - [Alfresco eSign Cert] (https://github.com/keensoft/alfresco-esign-cert) - Provides an Alfresco Share action for signing PDF files (PAdES-BES format) and any other file (CAdES-BES format detached) via java applet and more.
-
-
+- [CounterSign] (https://github.com/ntmcminn/CounterSign) -  A digital signature solution for Alfresco
 
 ###Documents
 - [Alfresco PDF Toolkit] (https://github.com/ntmcminn/alfresco-pdf-toolkit) - Migrated project from Google Code
@@ -86,8 +83,9 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [CMIS JS] (https://github.com/agea/CmisJS) - A CMIS javascript library for node and browser
 
 ###External Clients and Applications
+- [Alfrescian CMIS Browser](https://github.com/alfrescian/ng-cmis-browser) - Simple CMIS Repository Browser using CMIS 1.1 
 - [Alfresco HTML5 Client](https://github.com/agea/Alfresco-HTML5-Client) - A simple alfresco client written only in HTML5 and Javascript.
-- [Alfrescian CMIS Browser](https://github.com/alfrescian/ng-cmis-browser) - Simple CMIS Repository Browser using CMIS 1.1 Browser Binding based AngularJS and Bootstrap.
+Browser Binding based AngularJS and Bootstrap.
 - [Bootfresco](https://github.com/SnigBhaumik/Bootfresco) - Twitter Bootstrap client for Alfresco
 
 
@@ -95,8 +93,8 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 ###Form Controls and Document Library Components
 - [alfresco-colleagues-picker-form-control] (https://github.com/douglascrp/alfresco-colleagues-picker-form-control) - Limits the people picker to show only users members of the same groups the current logged in user is member
 - [alfresco-value-assistance] (https://github.com/parzgnat/alfresco-value-assistance) - Configurable value assistance module for Alfresco Share that allows picklists to be managed using datalists.
-- [Alvex Masterdata](https://github.com/ITDSystems/alvex-masterdata) - Extends default Alfresco content model LIST constraints to use dynamic and external lists of values. 
 - [Alvex Datagrid] (https://github.com/ITDSystems/alvex-datagrid) - Can be used in place of Alfresco default datagrid with additional features
+- [Alvex Masterdata](https://github.com/ITDSystems/alvex-masterdata) - Extends default Alfresco content model LIST constraints to use dynamic and external lists of values. 
 - [Alvex Orgchart] (https://github.com/ITDSystems/alvex-orgchart) - Extends standard Alfresco users and groups functionality by adding complete organizational chart that is more convenient for business users than flat groups.
 
 
@@ -108,13 +106,15 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [Marklogic Alfresco Integration] (https://github.com/zaizi/marklogic-alfresco-integration)
 
 ###Online Editing
-- [Online edition with Libreoffice in Alfresco Share](https://github.com/CesarCapillas/alfresco-share-online-edition-addon) - Online edition with Libreoffice in Alfresco Share
+- [Alfresco LibreOffice Online Editing](https://github.com/Redpill-Linpro/alfresco-libreoffice-online-edit) - A LibreOffice Online Edit Module for Alfresco
 - [Alfresco OnlyOffice Integration] (https://github.com/cetra3/onlyoffice-alfresco) - This Share plugin enables users to edit Office documents within ONLYOFFICE from Alfresco Share.
+- [Online edition with Libreoffice in Alfresco Share](https://github.com/CesarCapillas/alfresco-share-online-edition-addon) - Online edition with Libreoffice in Alfresco Share
 
 
 ###Mobile Clients
-- [Alfresco iOS App] (https://github.com/Alfresco/alfresco-ios-app) - Alfresco official iOS app 
+- [Alfresco iOS App] (https://github.com/Alfresco/alfresco-ios-app) - Alfresco Official iOS app 
 - [Alfresco Android App] (https://github.com/Alfresco/alfresco-android-app) - Alfresco Official Android App
+- [Ionic Alfresco] (https://github.com/DenisVuyka/ionic-alfresco) - Alfresco ADF bindings for Ionic 2 and Angular 2
 
 ###Localisation Tools
 - [alfresco-localisation-tools] (https://github.com/davidcognite/alfresco-localisation-tools) - Localisation tools for Alfresco
@@ -124,18 +124,18 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [Swedish] (https://github.com/loftuxab/alfresco-swedish) - Swedish Language pack for Alfresco
 
 ###Management
-- [Alfresco Share Import Export] (https://github.com/atolcd/alfresco-share-import-export) - This extension allows you to import and export ACP files from Share UI
 - [Alfresco JMX] (https://github.com/loftuxab/alfresco-jmx) - Add JMX functionality to Alfresco Community Edition
-- [OOTBEE Support Tools](https://github.com/AFaust/ootbee-support-tools) - "Liberated" variant of the Alfresco Support Tools addon
+- [Alfresco Share Import Export] (https://github.com/atolcd/alfresco-share-import-export) - This extension allows you to import and export ACP files from Share UI
 - [Alfresco Bulk Import](https://github.com/pmonks/alfresco-bulk-import) - Alfresco Bulk Import Tool v2.x - for Alfresco v5.0 and up
 - [Alfresco Bulk Export](https://github.com/gsdenys/alfresco-bulk-export) - Migrated from Google Code
-- [MassiveDelete] (https://github.com/fsforna/MassiveDelete) - A simple Alfresco massive deletion batch.
 - [Alfresco ATL Connector] (https://github.com/Open-Wide/alfresco-etl-connector) - The ETL Connector extension for Alfresco allows to import documents in an Alfresco repository by using compatible ETL Tools.
 - [Alfresco My Files Quota](https://github.com/keensoft/alfresco-myfiles-quota) - Define quota policies on My Files folder for each user
 - [Alfresco Trashcan Cleaner] (https://github.com/atolcd/alfresco-trashcan-cleaner) - This Alfresco module periodically purges old content from the Alfresco trashcan.
 - [AuditShare for Alfresco](https://github.com/atolcd/alfresco-audit-share) - displays sites and repository usage info.
-- [FileSynchronizer](https://github.com/bms-devs/FileSynchronizer) - Small tool for synchronizing local files with remote server (based on ssh) or Alfresco (based on http)
 - [AuditSurf](https://github.com/atolcd/alfresco-auditsurf) - AuditSurf is a SURF app displaying repository usage info
+- [FileSynchronizer](https://github.com/bms-devs/FileSynchronizer) - Small tool for synchronizing local files with remote server (based on ssh) or Alfresco (based on http)
+- [MassiveDelete] (https://github.com/fsforna/MassiveDelete) - A simple Alfresco massive deletion batch.
+- [OOTBEE Support Tools](https://github.com/AFaust/ootbee-support-tools) - "Liberated" variant of the Alfresco Support Tools addon
 
 ###Records Management
 - [Alfresco Records Management] (https://github.com/Alfresco/records-management) - Offical Alfresco Records Management Community Source Code 
