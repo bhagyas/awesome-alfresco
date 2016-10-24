@@ -74,6 +74,7 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 
 
 ###Email
+- [Alfresco RFC822/EML tweaks](https://github.com/deas/contentreich-eml) -  Alfresco RFC822/EML tweaks
 - [Inbound Invites] (https://github.com/jpotts/share-inbound-invites) - send calendar invitations to an Alfresco Share site
 
 ###Encryption
