@@ -19,10 +19,10 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [Alfresco BART - Backup and Recovery Tool] (https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Alfresco BART is a tool written in shell script on top of Duplicity for doing Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
 
 ###Content Stores
-- [Simple Content Stores] (https://github.com/AFaust/simple-content-stores) - Addon to provide a set of common content store implementations and easy-to-use configuration (no Spring config)
 - [Alfresco Cloud Store] (https://github.com/douglascrp/alfresco-cloud-store) - Migrated from Google Code
-- [Compressing Content Store for Alfresco](https://github.com/Gagravarr/AlfrescoCompressingContentStore) - An Alfresco ContentStore implementation, which compresses certain mime types (but not others)
 - [alfresco-s3-adapter] (https://github.com/rmberg/alfresco-s3-adapter) - Alfresco AMP Module for S3 Backed Storage
+- [Compressing Content Store for Alfresco](https://github.com/Gagravarr/AlfrescoCompressingContentStore) - An Alfresco ContentStore implementation, which compresses certain mime types (but not others)
+- [Simple Content Stores] (https://github.com/AFaust/simple-content-stores) - Addon to provide a set of common content store implementations and easy-to-use configuration (no Spring config)
 
 ###Classification and OCR
 - [Alfresco Google Vision](https://github.com/keensoft/alfresco-google-vision) - Google Vision API integration in Alfresco
@@ -57,8 +57,8 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 ###Deployment and Installation
 - [Alfresco Ubuntu Install](https://github.com/loftuxab/alfresco-ubuntu-install) - Install a production ready Alfresco on Ubuntu 14.04+
 - [Chef Alfresco] (https://github.com/Alfresco/chef-alfresco) - A build automation tool that provides a modular, configurable and extensible way to install an Alfresco architecture
-- [Puppet Alfresco](https://github.com/marsbard/puppet-alfresco) - Puppet Build Script for Alfresco
 - [Docker Alfresco](https://github.com/marsbard/docker-alfresco) - Containerised Alfresco
+- [Puppet Alfresco](https://github.com/marsbard/puppet-alfresco) - Puppet Build Script for Alfresco
 - [Vagrant Alfresco](https://github.com/stigkj/vagrant-alfresco) - Project for starting up an Alfresco instance inside a Vagrant VM
 - [Share Announcements] (https://github.com/jpotts/share-announcements) - Alfresco add-on that allows system announcements to be managed in the Data Dictionary and displayed on the login page.
 
@@ -85,8 +85,7 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 
 ###External Clients and Applications
 - [Alfrescian CMIS Browser](https://github.com/alfrescian/ng-cmis-browser) - Simple CMIS Repository Browser using CMIS 1.1 
-- [Alfresco HTML5 Client](https://github.com/agea/Alfresco-HTML5-Client) - A simple alfresco client written only in HTML5 and Javascript.
-Browser Binding based AngularJS and Bootstrap.
+- [Alfresco HTML5 Client](https://github.com/agea/Alfresco-HTML5-Client) - A simple alfresco client written only in HTML5 and Javascript. Browser Binding based AngularJS and Bootstrap.
 - [Bootfresco](https://github.com/SnigBhaumik/Bootfresco) - Twitter Bootstrap client for Alfresco
 
 
@@ -102,8 +101,8 @@ Browser Binding based AngularJS and Bootstrap.
 
 
 ###Integrations
-- [Alfresco Google Docs] (https://github.com/Alfresco/google-docs) - Alfresco Google Docs integration
 - [Alfresco Etherpad Integration](https://github.com/cetra3/etherpad-alfresco) - Alfresco to Etherpad integration
+- [Alfresco Google Docs] (https://github.com/Alfresco/google-docs) - Alfresco Google Docs integration
 - [Marklogic Alfresco Integration] (https://github.com/zaizi/marklogic-alfresco-integration)
 
 ###Online Editing
@@ -148,19 +147,19 @@ Browser Binding based AngularJS and Bootstrap.
 
 ###Share
 - [Alfresco Default User Avatars] (https://github.com/fmaul/alfresco-default-user-avatars) - Alfresco module that creates color coded avatars for users without a personal profile picture
-- [Alfresco Share Site Logo Customization] (https://github.com/douglascrp/alfresco-share-site-logo-customization) - This addon will allow you to set a different logo for each Alfresco Site
 - [Alfresco Share Clipboard](https://github.com/fmaul/alfresco-share-clipboard) - This extensions adds a Clipboard to the Alfresco Share document library that allows collecting documents.
+- [Alfresco Share Site Logo Customization] (https://github.com/douglascrp/alfresco-share-site-logo-customization) - This addon will allow you to set a different logo for each Alfresco Site
 - [Alfresco Unzip Action] (https://github.com/atolcd/alfresco-unzip-action) - This extension allows you to add "Unzip" action in Alfresco Share Document Library web tier (available in both Document Library site and repository).
 
 ###Share Dashlets
-- [Notice Dashlet] (https://github.com/share-extras/notice-dashlet) - Dashlet to display a user-defined piece of content on a user or a site dashboard
-- [Event Scheduling Dashlet](https://github.com/atolcd/alfresco-event-scheduling) - This extension allows you to plan events directly from a Share dashlet (the dashlet can be added, either on a user or on a site dashboard).
 - [Alfresco Favorite Folders Dashlet] (https://github.com/loftuxab/alfresco-favorite-folders-dashlet) - Adds favorite folder dashlet to Alfresco Share
+- [Event Scheduling Dashlet](https://github.com/atolcd/alfresco-event-scheduling) - This extension allows you to plan events directly from a Share dashlet (the dashlet can be added, either on a user or on a site dashboard).
+- [Notice Dashlet] (https://github.com/share-extras/notice-dashlet) - Dashlet to display a user-defined piece of content on a user or a site dashboard
 
 ###Transformers and Previewers
 - [Alfresco Vector Transformations Module] (https://github.com/loftuxab/alfresco-vector-transformations-module) - Adding support for vector file transformations in Alfresco including DWG and SVG
-- [STL Previewer] (https://github.com/ntmcminn/STL-Previewer) - Enables Share previews of STL 3d Model files
 - [MD Preview](https://github.com/cetra3/md-preview) - Markdown Previews and Editing for Alfresco Share
+- [STL Previewer] (https://github.com/ntmcminn/STL-Previewer) - Enables Share previews of STL 3d Model files
 
 
 ###Tutorials
@@ -178,13 +177,13 @@ Browser Binding based AngularJS and Bootstrap.
 - [Activiti] (https://github.com/Activiti) - Activiti Workflow 
 - [Flowable] (https://github.com/flowable) - Recent fork of Alfresco Activiti by core maintainers
 
-###Other
+###Documentation
 - [Manual Manager for Alfresco] (https://github.com/loftuxab/manual-manager) - Create documentation and manuals system based on markdown inside your Alfresco
+
+###Other
 - [Slack Bot for Alfresco] (https://addons.alfresco.com/addons/slack-bot-alfresco) -  a simple chatbot for Slack that connects to your Alfresco instance and provides some handy functionality
-- [Alfresco Utility](https://github.com/Acosix/alfresco-utility) - Project to consolidate abstract utility features that may be reused across functional Alfresco modules
 - [Alfresco Tooling] (https://github.com/Redpill-Linpro/Alfresco-Tooling) - Common Alfresco tooling, scripts and test setups.
-
-
+- [Alfresco Utility](https://github.com/Acosix/alfresco-utility) - Project to consolidate abstract utility features that may be reused across functional Alfresco modules
 
 ##Notes
 The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
