@@ -80,6 +80,7 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [Alfresco Encryption Module] (https://github.com/thinhnk55/Alfresco-Encryption-Module) - Extends features of Alfresco system, which allows users to encrypt and decrypt their data on repository. 
 
 ###External App Development
+- [Alfresco JS API](https://github.com/Alfresco/alfresco-js-api) - Alfresco API for JavaScript in the browser and Node.js
 - [CMIS JS] (https://github.com/agea/CmisJS) - A CMIS javascript library for node and browser
 
 ###External Clients and Applications
