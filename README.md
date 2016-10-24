@@ -4,13 +4,6 @@
 #About
 Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more.
 
-
-##Contributing and License
-
-Create an issue or a pull request with your submission. It will be evaluated and then made into this list.
-
-Distributed under the MIT License. See LICENSE for more information.
-
 ##Notes
 The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
 
@@ -191,3 +184,11 @@ The classification will change with time. Currently, it's used as a basic catego
 - [Slack Bot for Alfresco] (https://addons.alfresco.com/addons/slack-bot-alfresco) -  a simple chatbot for Slack that connects to your Alfresco instance and provides some handy functionality
 - [Alfresco Utility](https://github.com/Acosix/alfresco-utility) - Project to consolidate abstract utility features that may be reused across functional Alfresco modules
 - [Alfresco Tooling] (https://github.com/Redpill-Linpro/Alfresco-Tooling) - Common Alfresco tooling, scripts and test setups.
+
+
+
+##Contributing and License
+
+Create an issue or a pull request with your submission. It will be evaluated and then made into this list.
+
+Distributed under the MIT License. See LICENSE for more information.
