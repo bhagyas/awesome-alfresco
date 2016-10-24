@@ -60,6 +60,7 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [Docker Alfresco](https://github.com/marsbard/docker-alfresco) - Containerised Alfresco
 - [Puppet Alfresco](https://github.com/marsbard/puppet-alfresco) - Puppet Build Script for Alfresco
 - [Vagrant Alfresco](https://github.com/stigkj/vagrant-alfresco) - Project for starting up an Alfresco instance inside a Vagrant VM
+- [Alfresco SPK] (https://github.com/Alfresco/alfresco-spk) - Design, run, integrate Alfresco stacks
 - [Share Announcements] (https://github.com/jpotts/share-announcements) - Alfresco add-on that allows system announcements to be managed in the Data Dictionary and displayed on the login page.
 
 
@@ -83,6 +84,7 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 ###External App Development
 - [Alfresco JS API](https://github.com/Alfresco/alfresco-js-api) - Alfresco API for JavaScript in the browser and Node.js
 - [CMIS JS] (https://github.com/agea/CmisJS) - A CMIS javascript library for node and browser
+- [Spring Social Alfresco](https://github.com/Alfresco/spring-social-alfresco) - Spring Social plugin for Alfresco.
 
 ###External Clients and Applications
 - [Alfrescian CMIS Browser](https://github.com/alfrescian/ng-cmis-browser) - Simple CMIS Repository Browser using CMIS 1.1 
@@ -130,6 +132,7 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [Alfresco Bulk Import](https://github.com/pmonks/alfresco-bulk-import) - Alfresco Bulk Import Tool v2.x - for Alfresco v5.0 and up
 - [Alfresco Bulk Export](https://github.com/gsdenys/alfresco-bulk-export) - Migrated from Google Code
 - [Alfresco ATL Connector] (https://github.com/Open-Wide/alfresco-etl-connector) - The ETL Connector extension for Alfresco allows to import documents in an Alfresco repository by using compatible ETL Tools.
+- [Alfresco Max Version Policy](https://github.com/jottley/alfresco-maxversion-policy) - Alfresco Max Version Policy limits the number of versions that are created for a versioned node.
 - [Alfresco My Files Quota](https://github.com/keensoft/alfresco-myfiles-quota) - Define quota policies on My Files folder for each user
 - [Alfresco Trashcan Cleaner] (https://github.com/atolcd/alfresco-trashcan-cleaner) - This Alfresco module periodically purges old content from the Alfresco trashcan.
 - [AuditShare for Alfresco](https://github.com/atolcd/alfresco-audit-share) - displays sites and repository usage info.
