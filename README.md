@@ -2,7 +2,7 @@
 A curated list of awesome Alfresco projects and add-ons.
 
 ##Installation
-----=asd
+- Alfresco Ubuntu Install (https://github.com/loftuxab/alfresco-ubuntu-install)
 
 ##Content Stores
 
@@ -19,7 +19,7 @@ A curated list of awesome Alfresco projects and add-ons.
 ##Management
 
 
-#Backup and Restore
+##Backup and Restore
 
 
 ##Transformers
