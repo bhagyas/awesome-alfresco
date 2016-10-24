@@ -168,7 +168,7 @@ The classification will change with time. Currently, it's used as a basic catego
 - [Alfresco Favorite Folders Dashlet] (https://github.com/loftuxab/alfresco-favorite-folders-dashlet) - Adds favorite folder dashlet to Alfresco Share
 
 ###Transformers and Previewers
-- [Alfresoc Vector Transformations Module] (https://github.com/loftuxab/alfresco-vector-transformations-module) - Adding support for vector file transformations in Alfresco including DWG and SVG
+- [Alfresco Vector Transformations Module] (https://github.com/loftuxab/alfresco-vector-transformations-module) - Adding support for vector file transformations in Alfresco including DWG and SVG
 - [STL Previewer] (https://github.com/ntmcminn/STL-Previewer) - Enables Share previews of STL 3d Model files
 - [MD Preview](https://github.com/cetra3/md-preview) - Markdown Previews and Editing for Alfresco Share
 
