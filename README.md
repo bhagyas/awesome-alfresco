@@ -2,7 +2,7 @@
 
 
 #About
-Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more.
+**awesome-alfresco** is curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more.
 
 ##Content
 
