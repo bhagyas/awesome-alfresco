@@ -1,5 +1,19 @@
-# awesome-alfresco
-A curated list of awesome Alfresco projects and add-ons.
+![Awesome Alfresco](https://loftux.com/files/static/images/awesome_alfresco.png)
+
+
+#About 
+A curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more.
+
+
+##Contributing
+
+Create an issue or a pull request with your submission. It will be evaluated and then made into this list.
+
+##Notes
+The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
+
+
+##Content
 
 ###Auditing
 - [Alfresco Audit Dashlet] (https://github.com/share-extras/audit-dashlet) - Dashlet to view Alfresco audit logs
