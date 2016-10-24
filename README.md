@@ -16,6 +16,8 @@ A curated list of awesome Alfresco projects and add-ons.
 ###Content Stores
 - [Simple Content Stores] (https://github.com/AFaust/simple-content-stores) - Addon to provide a set of common content store implementations and easy-to-use configuration (no Spring config)
 - [Alfresco Cloud Store] (https://github.com/douglascrp/alfresco-cloud-store) - Migrated from Google Code
+- [Compressing Content Store for Alfresco](https://github.com/Gagravarr/AlfrescoCompressingContentStore) - An Alfresco ContentStore implementation, which compresses certain mime types (but not others)
+- [alfresco-s3-adapter] (https://github.com/rmberg/alfresco-s3-adapter) - Alfresco AMP Module for S3 Backed Storage
 
 ###Classification and OCR
 - [Alfresco Google Vision](https://github.com/keensoft/alfresco-google-vision) - Google Vision API integration in Alfresco
@@ -30,6 +32,7 @@ A curated list of awesome Alfresco projects and add-ons.
 ### Data List Management
 - [Alfresco Datalists] (https://github.com/deas/contentreich-alfresco-datalists) - Datalist Extensions for Alfresco Share
 - [alfresco-datalist-constraints](https://github.com/keensoft/alfresco-datalist-constraints) - Use datalists to maintain Alfresco model constraints
+- [AlfrescoDataListDownload](https://github.com/Gagravarr/AlfrescoDataListDownload) - Download as Spreadsheet support for Alfresco DataLists
 
 
 ###Development
@@ -43,14 +46,16 @@ A curated list of awesome Alfresco projects and add-ons.
 - [alfresco-ng2-components](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Angular 2 components
 - [Alfresco JavaScript Batch Executer] (https://github.com/ciber/alfresco-js-batch-executer)- Alfresco easy bulk processing with JavaScript
 - [Alfresco Enhanced Script Environment](https://github.com/AFaust/alfresco-enhanced-script-environment) - Provide additional functionality for the server-side JavaScript environments of both the Alfresco Repository and Alfresco Share tier.
+- [Alfresco @mvc] (https://github.com/dgradecak/alfresco-mvc) - Enables the usage of Spring @MVC within Alfresco.
+
 
 
 ###Deployment and Installation
 - [Alfresco Ubuntu Install](https://github.com/loftuxab/alfresco-ubuntu-install) - Install a production ready Alfresco on Ubuntu 14.04+
 - [Chef Alfresco] (https://github.com/Alfresco/chef-alfresco) - A build automation tool that provides a modular, configurable and extensible way to install an Alfresco architecture
 - [Puppet Alfresco](https://github.com/marsbard/puppet-alfresco) - Puppet Build Script for Alfresco
-- [Docker Alfrescp](https://github.com/marsbard/docker-alfresco) - Containerised Alfresco
-- [Notice Dashlet] (https://github.com/share-extras/notice-dashlet) - Dashlet to display a user-defined piece of content on a user or a site dashboard
+- [Docker Alfresco](https://github.com/marsbard/docker-alfresco) - Containerised Alfresco
+- [Vagrant Alfresco](https://github.com/stigkj/vagrant-alfresco) - Project for starting up an Alfresco instance inside a Vagrant VM
 - [Share Announcements] (https://github.com/jpotts/share-announcements) - Alfresco add-on that allows system announcements to be managed in the Data Dictionary and displayed on the login page.
 
 
@@ -78,6 +83,7 @@ A curated list of awesome Alfresco projects and add-ons.
 ###External Clients and Applications
 - [Alfresco HTML5 Client](https://github.com/agea/Alfresco-HTML5-Client) - A simple alfresco client written only in HTML5 and Javascript.
 - [Alfrescian CMIS Browser](https://github.com/alfrescian/ng-cmis-browser) - Simple CMIS Repository Browser using CMIS 1.1 Browser Binding based AngularJS and Bootstrap.
+- [Bootfresco](https://github.com/SnigBhaumik/Bootfresco) - Twitter Bootstrap client for Alfresco
 
 
 
@@ -109,7 +115,8 @@ A curated list of awesome Alfresco projects and add-ons.
 - [alfresco-localisation-tools] (https://github.com/davidcognite/alfresco-localisation-tools) - Localisation tools for Alfresco
 
 ### Language Packs
-- [Swedish] (https://github.com/loftuxab/alfresco-swedish)
+- [Serbian] (https://github.com/Mihailo-Pupin-Institute/alfresco-serbian-language-pack) - Serbian Language pack for Alfresco
+- [Swedish] (https://github.com/loftuxab/alfresco-swedish) - Swedish Language pack for Alfresco
 
 ###Management
 - [Alfresco Share Import Export] (https://github.com/atolcd/alfresco-share-import-export) - This extension allows you to import and export ACP files from Share UI
@@ -118,9 +125,15 @@ A curated list of awesome Alfresco projects and add-ons.
 - [Alfresco Bulk Import](https://github.com/pmonks/alfresco-bulk-import) - Alfresco Bulk Import Tool v2.x - for Alfresco v5.0 and up
 - [Alfresco Bulk Export](https://github.com/gsdenys/alfresco-bulk-export) - Migrated from Google Code
 - [MassiveDelete] (https://github.com/fsforna/MassiveDelete) - A simple Alfresco massive deletion batch.
+- [Alfresco ATL Connector] (https://github.com/Open-Wide/alfresco-etl-connector) - The ETL Connector extension for Alfresco allows to import documents in an Alfresco repository by using compatible ETL Tools.
 - [Alfresco My Files Quota](https://github.com/keensoft/alfresco-myfiles-quota) - Define quota policies on My Files folder for each user
 - [Alfresco Trashcan Cleaner] (https://github.com/atolcd/alfresco-trashcan-cleaner) - This Alfresco module periodically purges old content from the Alfresco trashcan.
 - [AuditShare for Alfresco](https://github.com/atolcd/alfresco-audit-share) - displays sites and repository usage info.
+- [FileSynchronizer](https://github.com/bms-devs/FileSynchronizer) - Small tool for synchronizing local files with remote server (based on ssh) or Alfresco (based on http)
+- [AuditSurf](https://github.com/atolcd/alfresco-auditsurf) - AuditSurf is a SURF app displaying repository usage info
+
+###Records Management
+- [Alfresco Records Management] (https://github.com/Alfresco/records-management) - Offical Alfresco Records Management Community Source Code 
 
 
 ###Share Add-ons
@@ -130,13 +143,18 @@ A curated list of awesome Alfresco projects and add-ons.
 ###Share
 - [Alfresco Default User Avatars] (https://github.com/fmaul/alfresco-default-user-avatars) - Alfresco module that creates color coded avatars for users without a personal profile picture
 - [Alfresco Share Site Logo Customization] (https://github.com/douglascrp/alfresco-share-site-logo-customization) - This addon will allow you to set a different logo for each Alfresco Site
+- [Alfresco Share Clipboard](https://github.com/fmaul/alfresco-share-clipboard) - This extensions adds a Clipboard to the Alfresco Share document library that allows collecting documents.
+- [Alfresco Unzip Action] (https://github.com/atolcd/alfresco-unzip-action) - This extension allows you to add "Unzip" action in Alfresco Share Document Library web tier (available in both Document Library site and repository).
 
+###Share Dashlets
+- [Notice Dashlet] (https://github.com/share-extras/notice-dashlet) - Dashlet to display a user-defined piece of content on a user or a site dashboard
+- [Event Scheduling Dashlet](https://github.com/atolcd/alfresco-event-scheduling) - This extension allows you to plan events directly from a Share dashlet (the dashlet can be added, either on a user or on a site dashboard).
+- [Alfresco Favorite Folders Dashlet] (https://github.com/loftuxab/alfresco-favorite-folders-dashlet) - Adds favorite folder dashlet to Alfresco Share
 
 ###Transformers and Previewers
 - [Alfresoc Vector Transformations Module] (https://github.com/loftuxab/alfresco-vector-transformations-module) - Adding support for vector file transformations in Alfresco including DWG and SVG
 - [STL Previewer] (https://github.com/ntmcminn/STL-Previewer) - Enables Share previews of STL 3d Model files
 - [MD Preview](https://github.com/cetra3/md-preview) - Markdown Previews and Editing for Alfresco Share
-
 
 
 ###Tutorials
