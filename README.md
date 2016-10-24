@@ -1,13 +1,15 @@
 ![Awesome Alfresco](https://loftux.com/files/static/images/awesome_alfresco.png)
 
 
-#About 
-A curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more.
+#About
+Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more.
 
 
-##Contributing
+##Contributing and License
 
 Create an issue or a pull request with your submission. It will be evaluated and then made into this list.
+
+Distributed under the MIT License. See LICENSE for more information.
 
 ##Notes
 The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
