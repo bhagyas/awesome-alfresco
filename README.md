@@ -52,8 +52,8 @@ Awesome Alfresco is curated list of awesome Alfresco add-ons, libraries, tutoria
 - [Alfresco Javascript Console] (https://github.com/share-extras/js-console) - Administration Console component for Alfresco Share, that enables the execution of arbitrary JavaScript code against the repository
 - [alfresco-jscript-extensions](https://github.com/jgoldhammer/alfresco-jscript-extensions) - Alfresco repository module with helpful javascript root object extensions which are helpful in much scenarios.
 - [Alfresco Maven] (https://github.com/Acosix/alfresco-maven) - Base Maven setup of parent POM, common definitions and plugins for building Alfresco modules without Alfresco SDK (except for a single plugin mojo)
-- [alfresco-ng2-components](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Angular 2 components
 - [Alfresco @mvc] (https://github.com/dgradecak/alfresco-mvc) - Enables the usage of Spring @MVC within Alfresco.
+- [alfresco-ng2-components](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Angular 2 components
 - [Dynamic Extensions for Alfresco] (https://github.com/laurentvdl/dynamic-extensions-for-alfresco) - Rapid development of Alfresco repository extensions in Java. Deploy your code in seconds, not minutes. Life is too short for endless server restarts.
 - [generator-alfresco](https://github.com/binduwavell/generator-alfresco) - A Yeomen generator based on the Alfresco all-in-one Maven archetype with some generators and an opinionated project structure. 
 
