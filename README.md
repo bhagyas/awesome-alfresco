@@ -171,6 +171,8 @@ Browser Binding based AngularJS and Bootstrap.
 
 ###Visualisations
 - [Alfresco Visualization Tools] (https://github.com/bhagyas/alfresco-visualization-tools) - Includes dashlets to view and visualize content within Alfresco repositories using D3.js and Simile Project.
+- [ContentCraft](https://github.com/rwetherall/ContentCraft) - ContentCraft is a Bukkit style plugin for Minecraft that connects, via CMIS, to an Alfresco repository.
+
 
 ###Workflow
 - [Activiti] (https://github.com/Activiti) - Activiti Workflow 
