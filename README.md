@@ -162,7 +162,10 @@
 - [OOTBEE Support Tools](https://github.com/AFaust/ootbee-support-tools) - "Liberated" variant of the Alfresco Support Tools addon
 - [Share Import/Export Tools](https://github.com/wabson/share-import-export) - A collection of Python scripts which can be used to import and export sites and users from Alfresco Share.
 
-
+###Monitoring
+- [alfresco-javamelody](https://github.com/javamelody/alfresco-javamelody) - JavaMelody plugin for Alfresco
+- [alfresco-nagios-and-icinga-plugin](https://github.com/toniblyx/alfresco-nagios-and-icinga-plugin) - Nagios/Icinga Java plugin to check via JMX values to Alfresco One 3.2 and newer. Migrated from Google Code
+- [nagios-plugin-alfresco](https://github.com/techblue/nagios-plugin) - Nagios plugins for Alfresco Solr and JBOSS
 
 ###Records Management
 - [Alfresco Records Management] (https://github.com/Alfresco/records-management) - Offical Alfresco Records Management Community Source Code 
