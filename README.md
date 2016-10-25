@@ -70,6 +70,7 @@
 - [Enables Cors support for an Alfresco repository](https://github.com/covolution/enablecors) - Enables Cors support for an Alfresco repository
 - [generator-alfresco](https://github.com/binduwavell/generator-alfresco) - A Yeomen generator based on the Alfresco all-in-one Maven archetype with some generators and an opinionated project structure. 
 - [Alfresco Share ReactJS](https://github.com/rubble/alfresco-share-reactjs) - An Alfresco AIO starter kit to start creating Alfresco Share widgets with ReactJS
+- [Alfresco Utility](https://github.com/Acosix/alfresco-utility) - Project to consolidate abstract utility features that may be reused across functional Alfresco modules
 
 
 ###Deployment and Installation
@@ -215,7 +216,6 @@
 ###Other
 - [Slack Bot for Alfresco] (https://addons.alfresco.com/addons/slack-bot-alfresco) -  a simple chatbot for Slack that connects to your Alfresco instance and provides some handy functionality
 - [Alfresco Tooling] (https://github.com/Redpill-Linpro/Alfresco-Tooling) - Common Alfresco tooling, scripts and test setups.
-- [Alfresco Utility](https://github.com/Acosix/alfresco-utility) - Project to consolidate abstract utility features that may be reused across functional Alfresco modules
 
 ##Notes
 The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
