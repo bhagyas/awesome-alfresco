@@ -19,7 +19,7 @@
 - [Alfresco BART - Backup and Recovery Tool] (https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Alfresco BART is a tool written in shell script on top of Duplicity for doing Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
 
 ###Benchmark
-- [Alfresco Benchmark](https://github.com/AlfrescoBenchmark/alfresco-benchmark) - Alfresco Benchmark framework, utilities and load tests: a scalable load test suite
+- [Alfresco Benchmark](https://github.com/AlfrescoBenchmark) - Alfresco Benchmark framework, utilities and load tests: a scalable load test suite
 
 
 ###Content Management Systems
