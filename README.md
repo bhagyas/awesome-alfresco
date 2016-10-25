@@ -179,7 +179,9 @@
 
 ###Transformers and Previewers
 - [Alfresco Vector Transformations Module] (https://github.com/loftuxab/alfresco-vector-transformations-module) - Adding support for vector file transformations in Alfresco including DWG and SVG
+- [Loftux Media Viewers for Alfresco Share](https://github.com/loftuxab/media-viewers) - Loftux maintained fork of Alfresco Media Viewers add-on with additional viewers
 - [MD Preview](https://github.com/cetra3/md-preview) - Markdown Previews and Editing for Alfresco Share
+- [Media Viewers] (https://github.com/share-extras/media-viewers) - Enhanced document previews for a range of different document and media types, plus a dashlet allowing any content item to be displayed on a site dashboard.
 - [STL Previewer] (https://github.com/ntmcminn/STL-Previewer) - Enables Share previews of STL 3d Model files
 
 
