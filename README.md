@@ -59,7 +59,7 @@
 
 
 ###Deployment and Installation
-- [Alfresco Ubuntu Install](https://github.com/loftuxab/alfresco-ubuntu-install) - Install a production ready Alfresco on Ubuntu 14.04+
+- [Alfresco Ubuntu Install](https://github.com/loftuxab/alfresco-ubuntu-install) - Install a production ready Alfresco on Ubuntu 14.04 onwards.
 - [Chef Alfresco] (https://github.com/Alfresco/chef-alfresco) - A build automation tool that provides a modular, configurable and extensible way to install an Alfresco architecture
 - [Docker Alfresco](https://github.com/marsbard/docker-alfresco) - Containerised Alfresco
 - [Puppet Alfresco](https://github.com/marsbard/puppet-alfresco) - Puppet Build Script for Alfresco
