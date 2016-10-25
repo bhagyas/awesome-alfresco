@@ -18,6 +18,10 @@
 ###Backup and Restore
 - [Alfresco BART - Backup and Recovery Tool] (https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Alfresco BART is a tool written in shell script on top of Duplicity for doing Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
 
+###Benchmark
+- [Alfresco Benchmark](https://github.com/AlfrescoBenchmark/alfresco-benchmark) - Alfresco Benchmark framework, utilities and load tests: a scalable load test suite
+
+
 ###Content Management Systems
 - [Crafter CMS](https://github.com/craftercms) - A web CMS built on top of Alfresco as the repository
 
@@ -63,7 +67,9 @@
 - [Alfresco @mvc] (https://github.com/dgradecak/alfresco-mvc) - Enables the usage of Spring @MVC within Alfresco.
 - [alfresco-ng2-components](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Angular 2 components
 - [Dynamic Extensions for Alfresco] (https://github.com/laurentvdl/dynamic-extensions-for-alfresco) - Rapid development of Alfresco repository extensions in Java. Deploy your code in seconds, not minutes. Life is too short for endless server restarts.
+- [Enables Cors support for an Alfresco repository](https://github.com/covolution/enablecors) - Enables Cors support for an Alfresco repository
 - [generator-alfresco](https://github.com/binduwavell/generator-alfresco) - A Yeomen generator based on the Alfresco all-in-one Maven archetype with some generators and an opinionated project structure. 
+- [Alfresco Share ReactJS](https://github.com/rubble/alfresco-share-reactjs) - An Alfresco AIO starter kit to start creating Alfresco Share widgets with ReactJS
 
 
 ###Deployment and Installation
@@ -153,6 +159,8 @@
 - [FileSynchronizer](https://github.com/bms-devs/FileSynchronizer) - Small tool for synchronizing local files with remote server (based on ssh) or Alfresco (based on http)
 - [MassiveDelete] (https://github.com/fsforna/MassiveDelete) - A simple Alfresco massive deletion batch.
 - [OOTBEE Support Tools](https://github.com/AFaust/ootbee-support-tools) - "Liberated" variant of the Alfresco Support Tools addon
+- [Share Import/Export Tools](https://github.com/wabson/share-import-export) - A collection of Python scripts which can be used to import and export sites and users from Alfresco Share.
+
 
 
 ###Records Management
@@ -169,6 +177,7 @@
 - [Alfresco Share Site Creators](https://github.com/jpotts/share-site-creators) - An Alfresco add-on that limits site creation to those in a specific group.
 - [Alfresco Share Site Logo Customization] (https://github.com/douglascrp/alfresco-share-site-logo-customization) - This addon will allow you to set a different logo for each Alfresco Site
 - [Alfresco Unzip Action] (https://github.com/atolcd/alfresco-unzip-action) - This extension allows you to add "Unzip" action in Alfresco Share Document Library web tier (available in both Document Library site and repository).
+- [Geo Views add-on for Alfresco Share](https://github.com/share-extras/geo-views) - Map-based views of geotagged content items in Share, plus support for adding/modifying geotags via a map interface
 
 
 
