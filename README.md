@@ -112,8 +112,6 @@
 - [Alfresco HTML5 Client](https://github.com/agea/Alfresco-HTML5-Client) - A simple alfresco client written only in HTML5 and Javascript. Browser Binding based AngularJS and Bootstrap.
 - [Bootfresco](https://github.com/SnigBhaumik/Bootfresco) - Twitter Bootstrap client for Alfresco
 
-
-
 ###Form Controls and Document Library Components
 - [alfresco-colleagues-picker-form-control] (https://github.com/douglascrp/alfresco-colleagues-picker-form-control) - Limits the people picker to show only users members of the same groups the current logged in user is member
 - [alfresco-value-assistance] (https://github.com/parzgnat/alfresco-value-assistance) - Configurable value assistance module for Alfresco Share that allows picklists to be managed using datalists.
@@ -125,25 +123,18 @@
 ###Integrations
 - [Marklogic Alfresco Integration] (https://github.com/zaizi/marklogic-alfresco-integration)
 
-###Online Editing
-- [Alfresco Etherpad Integration](https://github.com/cetra3/etherpad-alfresco) - Alfresco to Etherpad integration
-- [Alfresco Google Docs] (https://github.com/Alfresco/google-docs) - Alfresco Google Docs integration
-- [Alfresco LibreOffice Online Editing](https://github.com/Redpill-Linpro/alfresco-libreoffice-online-edit) - A LibreOffice Online Edit Module for Alfresco
-- [Alfresco OnlyOffice Integration] (https://github.com/cetra3/onlyoffice-alfresco) - This Share plugin enables users to edit Office documents within ONLYOFFICE from Alfresco Share.
-- [Online edition with Libreoffice in Alfresco Share](https://github.com/CesarCapillas/alfresco-share-online-edition-addon) - Online edition with Libreoffice in Alfresco Share
+### Language Packs
+- [Serbian] (https://github.com/Mihailo-Pupin-Institute/alfresco-serbian-language-pack) - Serbian Language pack for Alfresco
+- [Swedish] (https://github.com/loftuxab/alfresco-swedish) - Swedish Language pack for Alfresco
 
+###Localisation Tools
+- [alfresco-localisation-tools] (https://github.com/davidcognite/alfresco-localisation-tools) - Localisation tools for Alfresco
 
 ###Mobile Clients
 - [Alfresco iOS App] (https://github.com/Alfresco/alfresco-ios-app) - Alfresco Official iOS app 
 - [Alfresco Android App] (https://github.com/Alfresco/alfresco-android-app) - Alfresco Official Android App
 - [Ionic Alfresco] (https://github.com/DenisVuyka/ionic-alfresco) - Alfresco ADF bindings for Ionic 2 and Angular 2
 
-###Localisation Tools
-- [alfresco-localisation-tools] (https://github.com/davidcognite/alfresco-localisation-tools) - Localisation tools for Alfresco
-
-### Language Packs
-- [Serbian] (https://github.com/Mihailo-Pupin-Institute/alfresco-serbian-language-pack) - Serbian Language pack for Alfresco
-- [Swedish] (https://github.com/loftuxab/alfresco-swedish) - Swedish Language pack for Alfresco
 
 ###Management
 - [Alfresco JMX] (https://github.com/loftuxab/alfresco-jmx) - Add JMX functionality to Alfresco Community Edition
@@ -167,13 +158,18 @@
 - [alfresco-nagios-and-icinga-plugin](https://github.com/toniblyx/alfresco-nagios-and-icinga-plugin) - Nagios/Icinga Java plugin to check via JMX values to Alfresco One 3.2 and newer. Migrated from Google Code
 - [nagios-plugin-alfresco](https://github.com/techblue/nagios-plugin) - Nagios plugins for Alfresco Solr and JBOSS
 
+###Online Editing
+- [Alfresco Etherpad Integration](https://github.com/cetra3/etherpad-alfresco) - Alfresco to Etherpad integration
+- [Alfresco Google Docs] (https://github.com/Alfresco/google-docs) - Alfresco Google Docs integration
+- [Alfresco LibreOffice Online Editing](https://github.com/Redpill-Linpro/alfresco-libreoffice-online-edit) - A LibreOffice Online Edit Module for Alfresco
+- [Alfresco OnlyOffice Integration] (https://github.com/cetra3/onlyoffice-alfresco) - This Share plugin enables users to edit Office documents within ONLYOFFICE from Alfresco Share.
+- [Online edition with Libreoffice in Alfresco Share](https://github.com/CesarCapillas/alfresco-share-online-edition-addon) - Online edition with Libreoffice in Alfresco Share
+
 ###Records Management
 - [Alfresco Records Management] (https://github.com/Alfresco/records-management) - Offical Alfresco Records Management Community Source Code 
 
-
 ###Share Add-ons
 - [Alfresco Permission Labels] (https://github.com/loftuxab/permission-label) - Displays user permission levels in Document Library Views as a label
-
 
 ###Share
 - [Alfresco Default User Avatars] (https://github.com/fmaul/alfresco-default-user-avatars) - Alfresco module that creates color coded avatars for users without a personal profile picture
