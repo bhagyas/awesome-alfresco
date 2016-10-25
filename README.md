@@ -18,6 +18,14 @@
 ###Backup and Restore
 - [Alfresco BART - Backup and Recovery Tool] (https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Alfresco BART is a tool written in shell script on top of Duplicity for doing Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
 
+###Content Management Systems
+- [Crafter CMS](https://github.com/craftercms) - A web CMS built on top of Alfresco as the repository
+
+###Content Management System Integrations
+- [Drupal Alfresco](https://github.com/smartinm/drupal-alfresco) - Alfresco module provides integration between Drupal and Alfresco Enterprise Content Management System.
+- [AlfrescoDoc for Joomla](https://github.com/MajesticComputerTechnology/alfrescodoc-joomla) - A Joomla module to display document from alfresco.
+- [AlfrescoDoc for Wordpress](https://github.com/MajesticComputerTechnology/alfrescodoc-wordpress) - A WordPress Plugin to display document from alfresco.
+
 ###Content Stores
 - [Alfresco Cloud Store] (https://github.com/douglascrp/alfresco-cloud-store) - Migrated from Google Code
 - [alfresco-s3-adapter] (https://github.com/rmberg/alfresco-s3-adapter) - Alfresco AMP Module for S3 Backed Storage
@@ -107,14 +115,12 @@
 - [Alvex Orgchart] (https://github.com/ITDSystems/alvex-orgchart) - Extends standard Alfresco users and groups functionality by adding complete organizational chart that is more convenient for business users than flat groups.
 
 
-
-
 ###Integrations
-- [Alfresco Etherpad Integration](https://github.com/cetra3/etherpad-alfresco) - Alfresco to Etherpad integration
-- [Alfresco Google Docs] (https://github.com/Alfresco/google-docs) - Alfresco Google Docs integration
 - [Marklogic Alfresco Integration] (https://github.com/zaizi/marklogic-alfresco-integration)
 
 ###Online Editing
+- [Alfresco Etherpad Integration](https://github.com/cetra3/etherpad-alfresco) - Alfresco to Etherpad integration
+- [Alfresco Google Docs] (https://github.com/Alfresco/google-docs) - Alfresco Google Docs integration
 - [Alfresco LibreOffice Online Editing](https://github.com/Redpill-Linpro/alfresco-libreoffice-online-edit) - A LibreOffice Online Edit Module for Alfresco
 - [Alfresco OnlyOffice Integration] (https://github.com/cetra3/onlyoffice-alfresco) - This Share plugin enables users to edit Office documents within ONLYOFFICE from Alfresco Share.
 - [Online edition with Libreoffice in Alfresco Share](https://github.com/CesarCapillas/alfresco-share-online-edition-addon) - Online edition with Libreoffice in Alfresco Share
