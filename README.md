@@ -130,11 +130,6 @@
 ###Localisation Tools
 - [alfresco-localisation-tools] (https://github.com/davidcognite/alfresco-localisation-tools) - Localisation tools for Alfresco
 
-###Mobile Clients
-- [Alfresco iOS App] (https://github.com/Alfresco/alfresco-ios-app) - Alfresco Official iOS app 
-- [Alfresco Android App] (https://github.com/Alfresco/alfresco-android-app) - Alfresco Official Android App
-- [Ionic Alfresco] (https://github.com/DenisVuyka/ionic-alfresco) - Alfresco ADF bindings for Ionic 2 and Angular 2
-
 
 ###Management
 - [Alfresco JMX] (https://github.com/loftuxab/alfresco-jmx) - Add JMX functionality to Alfresco Community Edition
@@ -152,6 +147,11 @@
 - [MassiveDelete] (https://github.com/fsforna/MassiveDelete) - A simple Alfresco massive deletion batch.
 - [OOTBEE Support Tools](https://github.com/AFaust/ootbee-support-tools) - "Liberated" variant of the Alfresco Support Tools addon
 - [Share Import/Export Tools](https://github.com/wabson/share-import-export) - A collection of Python scripts which can be used to import and export sites and users from Alfresco Share.
+
+###Mobile Clients
+- [Alfresco iOS App] (https://github.com/Alfresco/alfresco-ios-app) - Alfresco Official iOS app 
+- [Alfresco Android App] (https://github.com/Alfresco/alfresco-android-app) - Alfresco Official Android App
+- [Ionic Alfresco] (https://github.com/DenisVuyka/ionic-alfresco) - Alfresco ADF bindings for Ionic 2 and Angular 2
 
 ###Monitoring
 - [alfresco-javamelody](https://github.com/javamelody/alfresco-javamelody) - JavaMelody plugin for Alfresco
