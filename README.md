@@ -213,9 +213,9 @@
 - [Manual Manager for Alfresco] (https://github.com/loftuxab/manual-manager) - Create documentation and manuals system based on markdown inside your Alfresco
 
 ###Other
-- [Slack Bot for Alfresco] (https://addons.alfresco.com/addons/slack-bot-alfresco) -  a simple chatbot for Slack that connects to your Alfresco instance and provides some handy functionality
-- [Alfresco Tooling] (https://github.com/Redpill-Linpro/Alfresco-Tooling) - Common Alfresco tooling, scripts and test setups.
 - [alfresco-mt-support](https://github.com/Acosix/alfresco-mt-support) - Adding missing multi-tenancy support for various subsystems and features
+- [Alfresco Tooling] (https://github.com/Redpill-Linpro/Alfresco-Tooling) - Common Alfresco tooling, scripts and test setups.
+- [Slack Bot for Alfresco] (https://addons.alfresco.com/addons/slack-bot-alfresco) -  a simple chatbot for Slack that connects to your Alfresco instance and provides some handy functionality
 
 
 ##Notes
