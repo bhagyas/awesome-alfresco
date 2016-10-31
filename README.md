@@ -41,17 +41,18 @@
 - [Alfresco Simple OCR](https://github.com/keensoft/alfresco-simple-ocr) - Simple OCR action for Alfresco
 - [Uploader Plus] (https://github.com/softwareloop/uploader-plus) - An Alfresco uploader that prompts for metadata
 
+###Clustering and Multitenancy
+- [Alfresco Cluster Probe](https://github.com/Redpill-Linpro/alfresco-cluster-probe) - Cluster probe addon for Alfresco. Enables cluster members to be removed from the cluster at runtime.
+- [alfresco-mt-support](https://github.com/Acosix/alfresco-mt-support) - Adding missing multi-tenancy support for various subsystems and features
 
 ###Custom Builds
-- [LXCommunity ECM] (https://github.com/loftuxab/alfresco-community-loftux) - Open source custom build of Alfresco Community with commercial support
-
+- [LXCommunity ECM] (https://github.com/loftuxab/alfresco-community-loftux) - Open source custom build of Alfresco Community with commercial support and built-in Swedish language pack
 
 ### Data List Management
 - [Alfresco Datalists] (https://github.com/deas/contentreich-alfresco-datalists) - Datalist Extensions for Alfresco Share
 - [alfresco-datalist-constraints](https://github.com/keensoft/alfresco-datalist-constraints) - Use datalists to maintain Alfresco model constraints
 - [AlfrescoDataListDownload](https://github.com/Gagravarr/AlfrescoDataListDownload) - Download as Spreadsheet support for Alfresco DataLists
 - [Alfresco List Manager](https://github.com/Redpill-Linpro/alfresco-listmanager) - Component used to manage custom list of values used in metadata forms.
-
 
 ###Desktop Sync
 - [CMISSync] (https://github.com/aegif/CmisSync) - Synchronize content between a CMIS repository and your desktop. Like Dropbox for Enterprise Content Management!
@@ -205,16 +206,15 @@
 - [Alfresco Visualization Tools] (https://github.com/bhagyas/alfresco-visualization-tools) - Includes dashlets to view and visualize content within Alfresco repositories using D3.js and Simile Project.
 - [ContentCraft](https://github.com/rwetherall/ContentCraft) - ContentCraft is a Bukkit style plugin for Minecraft that connects, via CMIS, to an Alfresco repository.
 
+###Wiki and Documentation
+- [Manual Manager for Alfresco] (https://github.com/loftuxab/manual-manager) - Create documentation and manuals system based on markdown inside your Alfresco
 
 ###Workflow
 - [Activiti] (https://github.com/Activiti) - Activiti Workflow 
 - [Flowable] (https://github.com/flowable) - Recent fork of Alfresco Activiti by core maintainers
 
-###Documentation
-- [Manual Manager for Alfresco] (https://github.com/loftuxab/manual-manager) - Create documentation and manuals system based on markdown inside your Alfresco
 
 ###Other
-- [alfresco-mt-support](https://github.com/Acosix/alfresco-mt-support) - Adding missing multi-tenancy support for various subsystems and features
 - [Alfresco Tooling] (https://github.com/Redpill-Linpro/Alfresco-Tooling) - Common Alfresco tooling, scripts and test setups.
 - [Slack Bot for Alfresco] (https://addons.alfresco.com/addons/slack-bot-alfresco) -  a simple chatbot for Slack that connects to your Alfresco instance and provides some handy functionality
 
