@@ -71,6 +71,7 @@
 - [generator-alfresco](https://github.com/binduwavell/generator-alfresco) - A Yeomen generator based on the Alfresco all-in-one Maven archetype with some generators and an opinionated project structure. 
 - [Alfresco Share ReactJS](https://github.com/rubble/alfresco-share-reactjs) - An Alfresco AIO starter kit to start creating Alfresco Share widgets with ReactJS
 - [Alfresco Utility](https://github.com/Acosix/alfresco-utility) - Project to consolidate abstract utility features that may be reused across functional Alfresco modules
+- [upgrade-assist](https://github.com/wrighting/upgrade-assist) - Help identifying what to do when upgrading a war overlay project
 
 
 ###Deployment and Installation
