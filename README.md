@@ -142,6 +142,7 @@
 - [Alfresco Max Version Policy](https://github.com/jottley/alfresco-maxversion-policy) - Alfresco Max Version Policy limits the number of versions that are created for a versioned node.
 - [Alfresco My Files Quota](https://github.com/keensoft/alfresco-myfiles-quota) - Define quota policies on My Files folder for each user
 - [Alfresco Shell Tools] (https://github.com/bmejias/alfresco-shell-tools) - Command line tools to admin Alfresco. Migrated from Google Code
+- [Alfresco System Messages](https://github.com/Redpill-Linpro/alfresco-systemmessages) 
 - [Alfresco System Usage Statistics](https://github.com/Redpill-Linpro/alfresco-system-usage-statistics)
 - [Alfresco Trashcan Cleaner] (https://github.com/atolcd/alfresco-trashcan-cleaner) - This Alfresco module periodically purges old content from the Alfresco trashcan.
 - [AuditShare for Alfresco](https://github.com/atolcd/alfresco-audit-share) - displays sites and repository usage info.
