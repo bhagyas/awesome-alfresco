@@ -78,13 +78,13 @@
 ### Deployment and Installation
 - [Alfresco Ubuntu Install](https://github.com/loftuxab/alfresco-ubuntu-install) - Install a production ready Alfresco on Ubuntu 14.04 onwards.
 - [Chef Alfresco](https://github.com/Alfresco/chef-alfresco) - A build automation tool that provides a modular, configurable and extensible way to install an Alfresco architecture
-- [Docker Alfresco](https://github.com/marsbard/docker-alfresco) - Containerised Alfresco
 - [Puppet Alfresco](https://github.com/marsbard/puppet-alfresco) - Puppet Build Script for Alfresco
 - [Vagrant Alfresco](https://github.com/stigkj/vagrant-alfresco) - Project for starting up an Alfresco instance inside a Vagrant VM
 - [Alfresco SPK](https://github.com/Alfresco/alfresco-spk) - Design, run, integrate Alfresco stacks
-- [Share Announcements](https://github.com/jpotts/share-announcements) - Alfresco add-on that allows system announcements to be managed in the Data Dictionary and displayed on the login page.
 
-
+### Docker Based Deployment
+- [Alfresco Docker](https://github.com/pdubois/docker-alfresco) - Generate a docker Ubuntu based image for Alfresco Community v5.2.0 with Alfresco Share v5.2.e
+- [Docker Alfresco](https://github.com/marsbard/docker-alfresco) - Containerised Alfresco
 
 ### Digital Signatures
 - [Alfresco eSign Cert](https://github.com/keensoft/alfresco-esign-cert) - Provides an Alfresco Share action for signing PDF files (PAdES-BES format) and any other file (CAdES-BES format detached) via java applet and more.
@@ -150,6 +150,7 @@
 - [FileSynchronizer](https://github.com/bms-devs/FileSynchronizer) - Small tool for synchronizing local files with remote server (based on ssh) or Alfresco (based on http)
 - [MassiveDelete](https://github.com/fsforna/MassiveDelete) - A simple Alfresco massive deletion batch.
 - [OOTBEE Support Tools](https://github.com/AFaust/ootbee-support-tools) - "Liberated" variant of the Alfresco Support Tools addon
+- [Share Announcements](https://github.com/jpotts/share-announcements) - Alfresco add-on that allows system announcements to be managed in the Data Dictionary and displayed on the login page.
 - [Share Import/Export Tools](https://github.com/wabson/share-import-export) - A collection of Python scripts which can be used to import and export sites and users from Alfresco Share.
 
 ### Mobile Clients
