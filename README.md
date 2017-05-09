@@ -199,6 +199,10 @@
 - [Pandoc Transformer for Alfresco](https://github.com/Redpill-Linpro/pandoc-transformer) - An Alfresco transformer for pandoc
 - [STL Previewer](https://github.com/ntmcminn/STL-Previewer) - Enables Share previews of STL 3d Model files
 
+- [Remote JODConverter](https://bitbucket.org/xenit/alfresco-remote-jodconverter) - Remote JOD Converter
+- [Docker Image for Remote JODConverter](https://bitbucket.org/xenit/docker-jodconverter-ws) - Docker Image for the Remote JODConverter
+
+
 
 ### Tutorials
 - [Alfresco Developer Series](https://github.com/jpotts/alfresco-developer-series) - Source code from Alfresco Developer Series tutorials by Jeff Potts
