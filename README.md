@@ -223,6 +223,7 @@
 
 
 ### Other
+- [Alfresco Photoanalyzer](https://github.com/davidantonlou/alfrescoPhotoAnalyzer) - Alfresco add-on to analyze people photos and extract information about the gender, the age, face expressions, emotions and others using Microsoft Cognitive API. 
 - [Alfresco Tooling](https://github.com/Redpill-Linpro/Alfresco-Tooling) - Common Alfresco tooling, scripts and test setups.
 - [Slack Bot for Alfresco](https://addons.alfresco.com/addons/slack-bot-alfresco) -  a simple chatbot for Slack that connects to your Alfresco instance and provides some handy functionality
 
