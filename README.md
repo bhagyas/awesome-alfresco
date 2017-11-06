@@ -138,7 +138,7 @@
 - [Alfresco Share Import Export](https://github.com/atolcd/alfresco-share-import-export) - This extension allows you to import and export ACP files from Share UI
 - [Alfresco Bulk Import](https://github.com/pmonks/alfresco-bulk-import) - Alfresco Bulk Import Tool v2.x - for Alfresco v5.0 and up
 - [Alfresco Bulk Export](https://github.com/gsdenys/alfresco-bulk-export) - Migrated from Google Code
-- [Alfresco ATL Connector](https://github.com/Open-Wide/alfresco-etl-connector) - The ETL Connector extension for Alfresco allows to import documents in an Alfresco repository by using compatible ETL Tools.
+- [Alfresco ETL Connector](https://github.com/Open-Wide/alfresco-etl-connector) - The ETL Connector extension for Alfresco allows to import documents in an Alfresco repository by using compatible ETL Tools.
 - [Alfresco Max Version Policy](https://github.com/jottley/alfresco-maxversion-policy) - Alfresco Max Version Policy limits the number of versions that are created for a versioned node.
 - [Alfresco My Files Quota](https://github.com/keensoft/alfresco-myfiles-quota) - Define quota policies on My Files folder for each user
 - [Alfresco Shell Tools](https://github.com/bmejias/alfresco-shell-tools) - Command line tools to admin Alfresco. Migrated from Google Code
