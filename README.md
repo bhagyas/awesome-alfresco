@@ -35,6 +35,7 @@
 - [alfresco-s3-adapter](https://github.com/rmberg/alfresco-s3-adapter) - Alfresco AMP Module for S3 Backed Storage
 - [Compressing Content Store for Alfresco](https://github.com/Gagravarr/AlfrescoCompressingContentStore) - An Alfresco ContentStore implementation, which compresses certain mime types (but not others)
 - [Simple Content Stores](https://github.com/AFaust/simple-content-stores) - Addon to provide a set of common content store implementations and easy-to-use configuration (no Spring config)
+- [Object Storage Connectors for Alfresco](https://github.com/jeci-sarl/alfresco-object-storage-connectors) - This project provides connectors to use Alfresco with Content Store based on Software Defined Storage. Currently 3 connectors for: Red Hat Ceph Storage, OpenIO and Openstack Swift
 
 ### Classification and OCR
 - [Alfresco Google Vision](https://github.com/keensoft/alfresco-google-vision) - Google Vision API integration in Alfresco
