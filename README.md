@@ -2,7 +2,7 @@
 
 
 # About
-**awesome-alfresco** is a curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more.
+**awesome-alfresco** is a curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more. 
 
 ## Content
 
@@ -228,6 +228,8 @@
 - [Alfresco Tooling](https://github.com/Redpill-Linpro/Alfresco-Tooling) - Common Alfresco tooling, scripts and test setups.
 - [Slack Bot for Alfresco](https://addons.alfresco.com/addons/slack-bot-alfresco) -  a simple chatbot for Slack that connects to your Alfresco instance and provides some handy functionality
 
+### Community Resources
+- [Alfresco Discord Channel](https://discordapp.com/invite/f7XntQN) - Discord channel mirroring #alfresco on FreeNode.
 
 ## Notes
 The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
