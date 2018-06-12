@@ -21,7 +21,6 @@
 ### Benchmark
 - [Alfresco Benchmark](https://github.com/AlfrescoBenchmark) - Alfresco Benchmark framework, utilities and load tests: a scalable load test suite
 
-
 ### Content Management Systems
 - [Crafter CMS](https://github.com/craftercms) - A web CMS built on top of Alfresco as the repository
 
@@ -231,6 +230,16 @@
 
 ### Community Resources
 - [Alfresco Discord Channel](https://discordapp.com/invite/f7XntQN) - Discord channel mirroring #alfresco on FreeNode.
+
+## Commercial Add-ons
+
+ Since Alfresco has discontinued the addons.alfresco.com, this page will now include links to top Alfresco commercial add-ons. When it returns, this section will cease to be updated.
+
+- [Alfresco Two Factor Authentication](https://loftux.se/en/blog/alfresco-2fa-add-two-factor-authentication-to-alfresco) - Alfresco Two Factor (2FA) Authentication Module with support for SMS, TOTP and Call based two factor login with Authy and Google Authenticator with TOTP.
+- [Sharebox for Alfresco](https://loftux.se/en/blog/adding-secure-external-sharing-functionality-to-alfresco) - Sharebox for Alfresco enables sharing Alfresco content with external users with support for nested folders, thumbnail previews, auditing and zip downloads.
+- [Share Themes Pack](https://loftux.se/en/blog/the-new-loftux-themes-are-here) - High quality swatch based visual templates for Alfresco.
+- [Zoomable for Alfresco](https://loftux.se/en/blog/announcing-the-zoomable-image-viewer-for-alfresco) - A zoomable tile generator with Microsoft DeepZoom and previewer for viewing tiled high resolution images.
+
 
 ## Notes
 The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
