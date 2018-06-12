@@ -45,6 +45,7 @@
 ### Clustering and Multitenancy
 - [Alfresco Cluster Probe](https://github.com/Redpill-Linpro/alfresco-cluster-probe) - Cluster probe addon for Alfresco. Enables cluster members to be removed from the cluster at runtime.
 - [alfresco-mt-support](https://github.com/Acosix/alfresco-mt-support) - Adding missing multi-tenancy support for various subsystems and features
+- [Kafka Alfresco Module](https://github.com/davidantonlou/KafkaAlfrescoModule) - Add support for Apache Kafka to Alfresco.
 
 ### Custom Builds
 - [LXCommunity ECM](https://github.com/loftuxab/alfresco-community-loftux) - Open source custom build of Alfresco Community with commercial support and built-in Swedish language pack
