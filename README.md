@@ -77,15 +77,19 @@
 
 
 ### Deployment and Installation
+- [Alfresco Docker](https://github.com/loftuxab/alfresco-docker) - Docker images for Alfresco provided by Loftux AB 
 - [Alfresco Ubuntu Install](https://github.com/loftuxab/alfresco-ubuntu-install) - Install a production ready Alfresco on Ubuntu 14.04 onwards.
+- [Alfresco SPK](https://github.com/Alfresco/alfresco-spk) - Design, run, integrate Alfresco stacks
 - [Chef Alfresco](https://github.com/Alfresco/chef-alfresco) - A build automation tool that provides a modular, configurable and extensible way to install an Alfresco architecture
 - [Puppet Alfresco](https://github.com/marsbard/puppet-alfresco) - Puppet Build Script for Alfresco
 - [Vagrant Alfresco](https://github.com/stigkj/vagrant-alfresco) - Project for starting up an Alfresco instance inside a Vagrant VM
-- [Alfresco SPK](https://github.com/Alfresco/alfresco-spk) - Design, run, integrate Alfresco stacks
 
 ### Docker Based Deployment
-- [Alfresco Docker](https://github.com/pdubois/docker-alfresco) - Generate a docker Ubuntu based image for Alfresco Community v5.2.0 with Alfresco Share v5.2.e
+- [Alfresco Docker](https://github.com/loftuxab/alfresco-docker) - Docker images for Alfresco provided by Loftux AB 
+- [Alfresco Docker Template](https://github.com/keensoft/alfresco-docker-template) - Alfresco Docker Templates by Keensoft
 - [Docker Alfresco](https://github.com/marsbard/docker-alfresco) - Containerised Alfresco
+- [Docker Alfresco](https://github.com/gui81/docker-alfresco) - Docker image for Alfresco Community Edition
+- [Docker Alfresco](https://github.com/pdubois/docker-alfresco) - Ubuntu based docker image for Alfresco Community v5.2.0
 
 ### Digital Signatures
 - [Alfresco eSign Cert](https://github.com/keensoft/alfresco-esign-cert) - Provides an Alfresco Share action for signing PDF files (PAdES-BES format) and any other file (CAdES-BES format detached) via java applet and more.
