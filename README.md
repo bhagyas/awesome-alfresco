@@ -119,6 +119,9 @@
 - [Alfresco HTML5 Client](https://github.com/agea/Alfresco-HTML5-Client) - A simple alfresco client written only in HTML5 and Javascript. Browser Binding based AngularJS and Bootstrap.
 - [Bootfresco](https://github.com/SnigBhaumik/Bootfresco) - Twitter Bootstrap client for Alfresco
 
+### Filesystem Integrations
+- [ALFFS](https://github.com/LotharMaerkle/alffs) - FUSE filesystem for the Alfresco DMS.
+
 ### Form Controls and Document Library Components
 - [alfresco-colleagues-picker-form-control](https://github.com/douglascrp/alfresco-colleagues-picker-form-control) - Limits the people picker to show only users members of the same groups the current logged in user is member
 - [alfresco-value-assistance](https://github.com/parzgnat/alfresco-value-assistance) - Configurable value assistance module for Alfresco Share that allows picklists to be managed using datalists.
