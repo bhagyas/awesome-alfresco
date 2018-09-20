@@ -9,6 +9,7 @@
 ### Auditing
 - [Alfresco Audit Analysis and Reporting](https://github.com/fcorti/alfresco-audit-analysis-reporting) - A.A.A.R. – Alfresco Audit Analysis and Reporting
 - [Alfresco Audit Dashlet](https://github.com/share-extras/audit-dashlet) - Dashlet to view Alfresco audit logs
+- [Form4 Audit Report](https://github.com/form4/form4-auditreport) - Form4 audit report
 
 ###  Authentication and Authorization
 - [alfresco-agreement-filter](https://github.com/keensoft/alfresco-agreement-filter) - This extension adds a must read page for every user before starting to use Alfresco.
