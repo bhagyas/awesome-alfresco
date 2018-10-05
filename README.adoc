@@ -1,8 +1,10 @@
-= Awesome Alfresco
-image:https://loftux.com/files/static/images/awesome_alfresco.png[Awesome Alfresco]
+:toc: preamble
 
-[abstract]
+image::https://loftux.com/files/static/images/awesome_alfresco.png[Awesome Alfresco]
+
+= Awesome Alfresco
 *awesome-alfresco* is a curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more. 
+
 
 == Content
 
