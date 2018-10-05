@@ -205,9 +205,8 @@ toc::[]
 - https://github.com/share-extras/media-viewers[Media Viewers] - Enhanced document previews for a range of different document and media types, plus a dashlet allowing any content item to be displayed on a site dashboard.
 - https://github.com/Redpill-Linpro/pandoc-transformer[Pandoc Transformer for Alfresco] - An Alfresco transformer for pandoc
 - https://github.com/ntmcminn/STL-Previewer[STL Previewer] - Enables Share previews of STL 3d Model files
-
-* https://bitbucket.org/xenit/alfresco-remote-jodconverter[Remote JODConverter] - Remote JOD Converter
-* https://bitbucket.org/xenit/docker-jodconverter-ws[Docker Image for Remote JODConverter] - Docker Image for the Remote JODConverter
+- https://bitbucket.org/xenit/alfresco-remote-jodconverter[Remote JODConverter] - Remote JOD Converter
+- https://bitbucket.org/xenit/docker-jodconverter-ws[Docker Image for Remote JODConverter] - Docker Image for the Remote JODConverter
 
 === Tutorials
 - https://github.com/jpotts/alfresco-developer-series[Alfresco Developer Series] - Source code from Alfresco Developer Series tutorials by Jeff Potts
