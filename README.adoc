@@ -1,10 +1,13 @@
-:toc: preamble
+:toc:
+:toc-placement!:
 
 image::https://loftux.com/files/static/images/awesome_alfresco.png[Awesome Alfresco]
 
+[discrete]
 = Awesome Alfresco
 *awesome-alfresco* is a curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more. 
 
+toc::[]
 
 == Content
 
