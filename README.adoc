@@ -242,8 +242,7 @@ Since Alfresco has discontinued the addons.alfresco.com, this page will now incl
 * https://loftux.se/en/blog/the-new-loftux-themes-are-here[Share Themes Pack] - High quality swatch based visual templates for Alfresco.
 * https://loftux.se/en/blog/announcing-the-zoomable-image-viewer-for-alfresco[Zoomable for Alfresco] - A zoomable tile generator with Microsoft DeepZoom and previewer for viewing tiled high resolution images.
 
-== Notes
-The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
+NOTE: The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
 
 == Contributing and License
 
