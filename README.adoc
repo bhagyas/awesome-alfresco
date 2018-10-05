@@ -1,0 +1,251 @@
+:toc:
+:toc-placement!:
+
+image::https://loftux.com/files/static/images/awesome_alfresco.png[Awesome Alfresco]
+
+[discrete]
+= Awesome Alfresco
+*awesome-alfresco* is a curated list of awesome Alfresco add-ons, libraries, tutorials, scripts and much more. 
+
+toc::[]
+
+== Content
+
+=== Auditing
+- https://github.com/fcorti/alfresco-audit-analysis-reporting[Alfresco Audit Analysis and Reporting] - A.A.A.R. – Alfresco Audit Analysis and Reporting
+- https://github.com/share-extras/audit-dashlet[Alfresco Audit Dashlet] - Dashlet to view Alfresco audit logs
+- https://github.com/form4/form4-auditreport[Form4 Audit Report] - Form4 audit report
+
+=== Authentication and Authorization
+- https://github.com/keensoft/alfresco-agreement-filter[alfresco-agreement-filter] - This extension adds a must read page for every user before starting to use Alfresco.
+- https://github.com/share-extras/share-oauth[Share oAuth] - Spring Surf extension allowing remote endpoints to be easily set up against OAuth 1.0 and OAuth 2.0 services
+- https://github.com/gdepourtales/share-oauth-sso[Share oAuth SSO] - Alfresco Share OAuth SSO Support
+
+=== Backup and Restore
+- https://github.com/toniblyx/alfresco-backup-and-recovery-tool[Alfresco BART - Backup and Recovery Tool] - Alfresco BART is a tool written in shell script on top of Duplicity for doing Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
+
+=== Benchmark
+- https://github.com/AlfrescoBenchmark[Alfresco Benchmark] - Alfresco Benchmark framework, utilities and load tests: a scalable load test suite
+
+=== Content Management Systems
+- https://github.com/craftercms[Crafter CMS] - A web CMS built on top of Alfresco as the repository
+
+=== Content Management System Integrations
+- https://github.com/smartinm/drupal-alfresco[Drupal Alfresco] - Alfresco module provides integration between Drupal and Alfresco Enterprise Content Management System.
+- https://github.com/MajesticComputerTechnology/alfrescodoc-joomla[AlfrescoDoc for Joomla] - A Joomla module to display document from alfresco.
+- https://github.com/MajesticComputerTechnology/alfrescodoc-wordpress[AlfrescoDoc for Wordpress] - A WordPress Plugin to display document from alfresco.
+
+=== Content Stores
+- https://github.com/douglascrp/alfresco-cloud-store[Alfresco Cloud Store] - Migrated from Google Code
+- https://github.com/rmberg/alfresco-s3-adapter[alfresco-s3-adapter] - Alfresco AMP Module for S3 Backed Storage
+- https://github.com/Gagravarr/AlfrescoCompressingContentStore[Compressing Content Store for Alfresco] - An Alfresco ContentStore implementation, which compresses certain mime types (but not others)
+- https://github.com/AFaust/simple-content-stores[Simple Content Stores] - Addon to provide a set of common content store implementations and easy-to-use configuration (no Spring config)
+- https://github.com/jeci-sarl/alfresco-object-storage-connectors[Object Storage Connectors for Alfresco] - This project provides connectors to use Alfresco with Content Store based on Software Defined Storage. Currently 3 connectors for: Red Hat Ceph Storage, OpenIO and Openstack Swift
+
+=== Classification and OCR
+- https://github.com/keensoft/alfresco-google-vision[Alfresco Google Vision] - Google Vision API integration in Alfresco
+- https://github.com/keensoft/alfresco-simple-ocr[Alfresco Simple OCR] - Simple OCR action for Alfresco
+- https://github.com/softwareloop/uploader-plus[Uploader Plus] - An Alfresco uploader that prompts for metadata
+
+=== Clustering and Multitenancy
+- https://github.com/Redpill-Linpro/alfresco-cluster-probe[Alfresco Cluster Probe] - Cluster probe addon for Alfresco. Enables cluster members to be removed from the cluster at runtime.
+- https://github.com/Acosix/alfresco-mt-support[alfresco-mt-support] - Adding missing multi-tenancy support for various subsystems and features
+- https://github.com/davidantonlou/KafkaAlfrescoModule[Kafka Alfresco Module] - Add support for Apache Kafka to Alfresco.
+
+=== Custom Builds
+- https://github.com/loftuxab/alfresco-community-loftux[LXCommunity ECM] - Open source custom build of Alfresco Community with commercial support and built-in Swedish language pack
+
+=== Data List Management
+- https://github.com/deas/contentreich-alfresco-datalists[Alfresco Datalists] - Datalist Extensions for Alfresco Share
+- https://github.com/keensoft/alfresco-datalist-constraints[alfresco-datalist-constraints] - Use datalists to maintain Alfresco model constraints
+- https://github.com/Gagravarr/AlfrescoDataListDownload[AlfrescoDataListDownload] - Download as Spreadsheet support for Alfresco DataLists
+- https://github.com/Redpill-Linpro/alfresco-listmanager[Alfresco List Manager] - Component used to manage custom list of values used in metadata forms.
+
+=== Desktop Sync
+- https://github.com/aegif/CmisSync[CMISSync] - Synchronize content between a CMIS repository and your desktop. Like Dropbox for Enterprise Content Management!
+
+=== Development
+- https://github.com/Alfresco/Aikau[Aikau] - Aikau UI Framework
+- https://github.com/Alfresco/alfresco-sdk[Alfresco SDK] - The Alfresco SDK based on Apache Maven, includes support for rapid and standard development, testing, packaging, versioning and release of your Alfresco integration and extension projects
+- https://github.com/AFaust/alfresco-enhanced-script-environment[Alfresco Enhanced Script Environment] - Provide additional functionality for the server-side JavaScript environments of both the Alfresco Repository and Alfresco Share tier.
+- https://github.com/ciber/alfresco-js-batch-executer[Alfresco JavaScript Batch Executer]- Alfresco easy bulk processing with JavaScript
+- https://github.com/share-extras/js-console[Alfresco Javascript Console] - Administration Console component for Alfresco Share, that enables the execution of arbitrary JavaScript code against the repository
+- https://github.com/jgoldhammer/alfresco-jscript-extensions[alfresco-jscript-extensions] - Alfresco repository module with helpful javascript root object extensions which are helpful in much scenarios.
+- https://github.com/Acosix/alfresco-maven[Alfresco Maven] - Base Maven setup of parent POM, common definitions and plugins for building Alfresco modules without Alfresco SDK (except for a single plugin mojo)
+- https://github.com/dgradecak/alfresco-mvc[Alfresco @mvc] - Enables the usage of Spring @MVC within Alfresco.
+- https://github.com/Alfresco/alfresco-ng2-components[alfresco-ng2-components] - Alfresco Angular 2 components
+- https://github.com/laurentvdl/dynamic-extensions-for-alfresco[Dynamic Extensions for Alfresco] - Rapid development of Alfresco repository extensions in Java. Deploy your code in seconds, not minutes. Life is too short for endless server restarts.
+- https://github.com/covolution/enablecors[Enables Cors support for an Alfresco repository] - Enables Cors support for an Alfresco repository
+- https://github.com/binduwavell/generator-alfresco[generator-alfresco] - A Yeomen generator based on the Alfresco all-in-one Maven archetype with some generators and an opinionated project structure.
+- https://github.com/rubble/alfresco-share-reactjs[Alfresco Share ReactJS] - An Alfresco AIO starter kit to start creating Alfresco Share widgets with ReactJS
+- https://github.com/Acosix/alfresco-utility[Alfresco Utility] - Project to consolidate abstract utility features that may be reused across functional Alfresco modules
+- https://github.com/wrighting/upgrade-assist[upgrade-assist] - Help identifying what to do when upgrading a war overlay project
+
+=== Deployment and Installation
+- https://github.com/loftuxab/alfresco-docker[Alfresco Docker] - Docker images for Alfresco provided by Loftux AB
+- https://github.com/loftuxab/alfresco-ubuntu-install[Alfresco Ubuntu Install] - Install a production ready Alfresco on Ubuntu 14.04 onwards.
+- https://github.com/Alfresco/alfresco-spk[Alfresco SPK] - Design, run, integrate Alfresco stacks
+- https://github.com/Alfresco/chef-alfresco[Chef Alfresco] - A build automation tool that provides a modular, configurable and extensible way to install an Alfresco architecture
+- https://github.com/marsbard/puppet-alfresco[Puppet Alfresco] - Puppet Build Script for Alfresco
+- https://github.com/stigkj/vagrant-alfresco[Vagrant Alfresco] - Project for starting up an Alfresco instance inside a Vagrant VM
+
+=== Docker Based Deployment
+- https://github.com/loftuxab/alfresco-docker[Alfresco Docker] - Docker images for Alfresco provided by Loftux AB
+- https://github.com/keensoft/alfresco-docker-template[Alfresco Docker Template] - Alfresco Docker Templates by Keensoft
+- https://github.com/marsbard/docker-alfresco[Docker Alfresco] - Containerised Alfresco
+- https://github.com/gui81/docker-alfresco[Docker Alfresco] - Docker image for Alfresco Community Edition
+- https://github.com/pdubois/docker-alfresco[Docker Alfresco] - Ubuntu based docker image for Alfresco Community v5.2.0
+
+=== Digital Signatures
+- https://github.com/keensoft/alfresco-esign-cert[Alfresco eSign Cert] - Provides an Alfresco Share action for signing PDF files (PAdES-BES format) and any other file (CAdES-BES format detached) via java applet and more.
+- https://github.com/ntmcminn/CounterSign[CounterSign] - A digital signature solution for Alfresco
+
+=== Documents
+- https://github.com/ntmcminn/alfresco-pdf-toolkit[Alfresco PDF Toolkit] - Migrated project from Google Code
+- https://github.com/loftuxab/alfresco-pdf-toolkit[Alfresco PDF Toolkit - Loftux maintained fork] - Maintained fork of Alfresco PDF Toolkit
+
+=== Email
+- https://github.com/malariagen/alfresco-discussions[Alfresco Discussions] - Send an email to all site members whenever a discussion topic is created/updated. This extension also allows you to reply to the notification via email
+- https://github.com/deas/contentreich-eml[Alfresco RFC822/EML tweaks] - Alfresco RFC822/EML tweaks
+- https://github.com/jpotts/share-inbound-invites[Inbound Invites] - send calendar invitations to an Alfresco Share site
+
+=== Encryption
+- https://github.com/thinhnk55/Alfresco-Encryption-Module[Alfresco Encryption Module] - Extends features of Alfresco system, which allows users to encrypt and decrypt their data on repository. 
+
+=== External App Development
+- https://github.com/Alfresco/alfresco-js-api[Alfresco JS API] - Alfresco API for JavaScript in the browser and Node.js
+- https://github.com/agea/CmisJS[CMIS JS] - A CMIS javascript library for node and browser
+- https://github.com/Alfresco/spring-social-alfresco[Spring Social Alfresco] - Spring Social plugin for Alfresco.
+
+=== External Clients and Applications
+- https://github.com/alfrescian/ng-cmis-browser[Alfrescian CMIS Browser] - Simple CMIS Repository Browser using CMIS 1.1
+- https://github.com/agea/Alfresco-HTML5-Client[Alfresco HTML5 Client] - A simple alfresco client written only in HTML5 and Javascript. Browser Binding based AngularJS and Bootstrap.
+- https://github.com/SnigBhaumik/Bootfresco[Bootfresco] - Twitter Bootstrap client for Alfresco
+
+=== Filesystem Integrations
+- https://github.com/LotharMaerkle/alffs[ALFFS] - FUSE filesystem for the Alfresco DMS.
+
+=== Form Controls and Document Library Components
+- https://github.com/douglascrp/alfresco-colleagues-picker-form-control[alfresco-colleagues-picker-form-control] - Limits the people picker to show only users members of the same groups the current logged in user is member
+- https://github.com/parzgnat/alfresco-value-assistance[alfresco-value-assistance] - Configurable value assistance module for Alfresco Share that allows picklists to be managed using datalists.
+- https://github.com/ITDSystems/alvex-datagrid[Alvex Datagrid] - Can be used in place of Alfresco default datagrid with additional features
+- https://github.com/ITDSystems/alvex-masterdata[Alvex Masterdata] - Extends default Alfresco content model LIST constraints to use dynamic and external lists of values.
+- https://github.com/ITDSystems/alvex-orgchart[Alvex Orgchart] - Extends standard Alfresco users and groups functionality by adding complete organizational chart that is more convenient for business users than flat groups.
+
+=== Integrations
+- https://github.com/zaizi/marklogic-alfresco-integration[Marklogic Alfresco Integration]
+
+=== Language Packs
+- https://github.com/Mihailo-Pupin-Institute/alfresco-serbian-language-pack[Serbian] - Serbian Language pack for Alfresco
+- https://github.com/loftuxab/alfresco-swedish[Swedish] - Swedish Language pack for Alfresco
+
+=== Localisation Tools
+- https://github.com/davidcognite/alfresco-localisation-tools[alfresco-localisation-tools] - Localisation tools for Alfresco
+
+=== Management
+- https://github.com/loftuxab/alfresco-jmx[Alfresco JMX] - Add JMX functionality to Alfresco Community Edition
+- https://github.com/atolcd/alfresco-share-import-export[Alfresco Share Import Export] - This extension allows you to import and export ACP files from Share UI
+- https://github.com/pmonks/alfresco-bulk-import[Alfresco Bulk Import] - Alfresco Bulk Import Tool v2.x - for Alfresco v5.0 and up
+- https://github.com/gsdenys/alfresco-bulk-export[Alfresco Bulk Export] - Migrated from Google Code
+- https://github.com/Open-Wide/alfresco-etl-connector[Alfresco ETL Connector] - The ETL Connector extension for Alfresco allows to import documents in an Alfresco repository by using compatible ETL Tools.
+- https://github.com/jottley/alfresco-maxversion-policy[Alfresco Max Version Policy] - Alfresco Max Version Policy limits the number of versions that are created for a versioned node.
+- https://github.com/keensoft/alfresco-myfiles-quota[Alfresco My Files Quota] - Define quota policies on My Files folder for each user
+- https://github.com/bmejias/alfresco-shell-tools[Alfresco Shell Tools] - Command line tools to admin Alfresco. Migrated from Google Code
+- https://github.com/Redpill-Linpro/alfresco-systemmessages[Alfresco System Messages]
+- https://github.com/Redpill-Linpro/alfresco-system-usage-statistics[Alfresco System Usage Statistics]
+- https://github.com/atolcd/alfresco-trashcan-cleaner[Alfresco Trashcan Cleaner] - This Alfresco module periodically purges old content from the Alfresco trashcan.
+- https://github.com/atolcd/alfresco-audit-share[AuditShare for Alfresco] - displays sites and repository usage info.
+- https://github.com/atolcd/alfresco-auditsurf[AuditSurf] - AuditSurf is a SURF app displaying repository usage info
+- https://github.com/bms-devs/FileSynchronizer[FileSynchronizer] - Small tool for synchronizing local files with remote server (based on ssh) or Alfresco (based on http)
+- https://github.com/fsforna/MassiveDelete[MassiveDelete] - A simple Alfresco massive deletion batch.
+- https://github.com/AFaust/ootbee-support-tools[OOTBEE Support Tools] - "Liberated" variant of the Alfresco Support Tools addon
+- https://github.com/jpotts/share-announcements[Share Announcements] - Alfresco add-on that allows system announcements to be managed in the Data Dictionary and displayed on the login page.
+- https://github.com/wabson/share-import-export[Share Import/Export Tools] - A collection of Python scripts which can be used to import and export sites and users from Alfresco Share.
+
+=== Mobile Clients
+- https://github.com/Alfresco/alfresco-ios-app[Alfresco iOS App] - Alfresco Official iOS app
+- https://github.com/Alfresco/alfresco-android-app[Alfresco Android App] - Alfresco Official Android App
+- https://github.com/DenisVuyka/ionic-alfresco[Ionic Alfresco] - Alfresco ADF bindings for Ionic 2 and Angular 2
+
+=== Monitoring
+- https://github.com/javamelody/alfresco-javamelody[alfresco-javamelody] - JavaMelody plugin for Alfresco
+- https://github.com/toniblyx/alfresco-nagios-and-icinga-plugin[alfresco-nagios-and-icinga-plugin] - Nagios/Icinga Java plugin to check via JMX values to Alfresco One 3.2 and newer. Migrated from Google Code
+- https://github.com/techblue/nagios-plugin[nagios-plugin-alfresco] - Nagios plugins for Alfresco Solr and JBOSS
+
+=== Online Editing
+- https://github.com/cetra3/etherpad-alfresco[Alfresco Etherpad Integration] - Alfresco to Etherpad integration
+- https://github.com/Alfresco/google-docs[Alfresco Google Docs] - Alfresco Google Docs integration
+- https://github.com/Redpill-Linpro/alfresco-libreoffice-online-edit[Alfresco LibreOffice Online Editing] - A LibreOffice Online Edit Module for Alfresco
+- https://github.com/cetra3/onlyoffice-alfresco[Alfresco OnlyOffice Integration] - This Share plugin enables users to edit Office documents within ONLYOFFICE from Alfresco Share.
+- https://github.com/CesarCapillas/alfresco-share-online-edition-addon[Online edition with Libreoffice in Alfresco Share] - Online edition with Libreoffice in Alfresco Share
+
+=== Records Management
+- https://github.com/Alfresco/records-management[Alfresco Records Management] - Offical Alfresco Records Management Community Source Code 
+
+=== Share Add-ons
+- https://github.com/loftuxab/permission-label[Alfresco Permission Labels] - Displays user permission levels in Document Library Views as a label
+
+=== Share
+- https://github.com/fmaul/alfresco-default-user-avatars[Alfresco Default User Avatars] - Alfresco module that creates color coded avatars for users without a personal profile picture
+- https://github.com/fmaul/alfresco-share-clipboard[Alfresco Share Clipboard] - This extensions adds a Clipboard to the Alfresco Share document library that allows collecting documents.
+- https://github.com/jpotts/share-site-creators[Alfresco Share Site Creators] - An Alfresco add-on that limits site creation to those in a specific group.
+- https://github.com/douglascrp/alfresco-share-site-logo-customization[Alfresco Share Site Logo Customization] - This addon will allow you to set a different logo for each Alfresco Site
+- https://github.com/atolcd/alfresco-unzip-action[Alfresco Unzip Action] - This extension allows you to add "Unzip" action in Alfresco Share Document Library web tier (available in both Document Library site and repository).
+- https://github.com/share-extras/geo-views[Geo Views add-on for Alfresco Share] - Map-based views of geotagged content items in Share, plus support for adding/modifying geotags via a map interface
+
+=== Share Dashlets
+- https://github.com/loftuxab/alfresco-favorite-folders-dashlet[Alfresco Favorite Folders Dashlet] - Adds favorite folder dashlet to Alfresco Share
+- https://github.com/atolcd/alfresco-event-scheduling[Event Scheduling Dashlet] - This extension allows you to plan events directly from a Share dashlet (the dashlet can be added, either on a user or on a site dashboard).
+- https://github.com/share-extras/notice-dashlet[Notice Dashlet] - Dashlet to display a user-defined piece of content on a user or a site dashboard
+
+=== Transformers and Previewers
+- https://github.com/loftuxab/alfresco-vector-transformations-module[Alfresco Vector Transformations Module] - Adding support for vector file transformations in Alfresco including DWG and SVG
+- https://github.com/loftuxab/media-viewers[Loftux Media Viewers for Alfresco Share] - Loftux maintained fork of Alfresco Media Viewers add-on with additional viewers
+- https://github.com/cetra3/md-preview[MD Preview] - Markdown Previews and Editing for Alfresco Share
+- https://github.com/share-extras/media-viewers[Media Viewers] - Enhanced document previews for a range of different document and media types, plus a dashlet allowing any content item to be displayed on a site dashboard.
+- https://github.com/Redpill-Linpro/pandoc-transformer[Pandoc Transformer for Alfresco] - An Alfresco transformer for pandoc
+- https://github.com/ntmcminn/STL-Previewer[STL Previewer] - Enables Share previews of STL 3d Model files
+
+* https://bitbucket.org/xenit/alfresco-remote-jodconverter[Remote JODConverter] - Remote JOD Converter
+* https://bitbucket.org/xenit/docker-jodconverter-ws[Docker Image for Remote JODConverter] - Docker Image for the Remote JODConverter
+
+=== Tutorials
+- https://github.com/jpotts/alfresco-developer-series[Alfresco Developer Series] - Source code from Alfresco Developer Series tutorials by Jeff Potts
+- https://github.com/ohej/alfresco-tutorials[Alfresco Tutorials] - Source for Alfresco Tutorials written by Ole Hejlskov.
+- https://github.com/jpotts/alfresco-api-java-examples[Alfresco API Java Examples] - Examples showing how to hit the Alfresco Public API using Java.
+
+=== Visualisations
+- https://github.com/bhagyas/alfresco-visualization-tools[Alfresco Visualization Tools] - Includes dashlets to view and visualize content within Alfresco repositories using D3.js and Simile Project.
+- https://github.com/rwetherall/ContentCraft[ContentCraft] - ContentCraft is a Bukkit style plugin for Minecraft that connects, via CMIS, to an Alfresco repository.
+
+=== Wiki and Documentation
+- https://github.com/loftuxab/manual-manager[Manual Manager for Alfresco] - Create documentation and manuals system based on markdown inside your Alfresco
+
+=== Workflow
+- https://github.com/Activiti[Activiti] - Activiti Workflow
+- https://github.com/flowable[Flowable] - Recent fork of Alfresco Activiti by core maintainers
+
+=== Other
+- https://github.com/davidantonlou/alfrescoPhotoAnalyzer[Alfresco Photoanalyzer] - Alfresco add-on to analyze people photos and extract information about the gender, the age, face expressions, emotions and others using Microsoft Cognitive API.
+- https://github.com/Redpill-Linpro/Alfresco-Tooling[Alfresco Tooling] - Common Alfresco tooling, scripts and test setups.
+- https://addons.alfresco.com/addons/slack-bot-alfresco[Slack Bot for Alfresco] - a simple chatbot for Slack that connects to your Alfresco instance and provides some handy functionality
+
+=== Community Resources
+- https://discordapp.com/invite/f7XntQN[Alfresco Discord Channel] - Discord channel mirroring #alfresco on FreeNode.
+
+== Commercial Add-ons
+
+Since Alfresco has discontinued the addons.alfresco.com, this page will now include links to top Alfresco commercial add-ons. When it returns, this section will cease to be updated.
+
+* https://loftux.se/en/blog/alfresco-2fa-add-two-factor-authentication-to-alfresco[Alfresco Two Factor Authentication] - Alfresco Two Factor (2FA) Authentication Module with support for SMS, TOTP and Call based two factor login with Authy and Google Authenticator with TOTP.
+* https://loftux.se/en/blog/adding-secure-external-sharing-functionality-to-alfresco[Sharebox for Alfresco] - Sharebox for Alfresco enables sharing Alfresco content with external users with support for nested folders, thumbnail previews, auditing and zip downloads.
+* https://loftux.se/en/blog/the-new-loftux-themes-are-here[Share Themes Pack] - High quality swatch based visual templates for Alfresco.
+* https://loftux.se/en/blog/announcing-the-zoomable-image-viewer-for-alfresco[Zoomable for Alfresco] - A zoomable tile generator with Microsoft DeepZoom and previewer for viewing tiled high resolution images.
+
+NOTE: The classification will change with time. Currently, it's used as a basic categorisation based on the description of each repository.
+
+== Contributing and License
+
+Create an issue or a pull request with your submission. It will be evaluated and then made into this list.
+
+Distributed under the MIT License. See LICENSE for more information.
