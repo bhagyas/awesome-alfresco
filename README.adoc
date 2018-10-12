@@ -144,6 +144,11 @@ toc::[]
 === Localisation Tools
 - https://github.com/davidcognite/alfresco-localisation-tools[alfresco-localisation-tools] - Localisation tools for Alfresco
 
+=== Maintenance
+- https://github.com/keensoft/alfresco-deleted-content-store-cleaner[Alfresco Deleted Content Store Cleaner] - Provides a job to remove abandoned files in Deleted Content Store.
+- https://github.com/keensoft/alfresco-remove-version[Alfresco Remove Versions from Share]
+- https://github.com/atolcd/alfresco-trashcan-cleaner[Alfresco Trashcan Cleaner] - This Alfresco module periodically purges old content from the Alfresco trashcan.
+
 === Management
 - https://github.com/loftuxab/alfresco-jmx[Alfresco JMX] - Add JMX functionality to Alfresco Community Edition
 - https://github.com/atolcd/alfresco-share-import-export[Alfresco Share Import Export] - This extension allows you to import and export ACP files from Share UI
@@ -155,7 +160,6 @@ toc::[]
 - https://github.com/bmejias/alfresco-shell-tools[Alfresco Shell Tools] - Command line tools to admin Alfresco. Migrated from Google Code
 - https://github.com/Redpill-Linpro/alfresco-systemmessages[Alfresco System Messages]
 - https://github.com/Redpill-Linpro/alfresco-system-usage-statistics[Alfresco System Usage Statistics]
-- https://github.com/atolcd/alfresco-trashcan-cleaner[Alfresco Trashcan Cleaner] - This Alfresco module periodically purges old content from the Alfresco trashcan.
 - https://github.com/atolcd/alfresco-audit-share[AuditShare for Alfresco] - displays sites and repository usage info.
 - https://github.com/atolcd/alfresco-auditsurf[AuditSurf] - AuditSurf is a SURF app displaying repository usage info
 - https://github.com/bms-devs/FileSynchronizer[FileSynchronizer] - Small tool for synchronizing local files with remote server (based on ssh) or Alfresco (based on http)
