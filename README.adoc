@@ -110,7 +110,9 @@ toc::[]
 - https://github.com/jpotts/share-inbound-invites[Inbound Invites] - send calendar invitations to an Alfresco Share site
 
 === Encryption
+- https://github.com/keensoft/alfresco-ciphering[Alfresco Ciphering] - Alfresco Action to cipher & decipher the content of the files by using a password
 - https://github.com/thinhnk55/Alfresco-Encryption-Module[Alfresco Encryption Module] - Extends features of Alfresco system, which allows users to encrypt and decrypt their data on repository. 
+
 
 === External App Development
 - https://github.com/Alfresco/alfresco-js-api[Alfresco JS API] - Alfresco API for JavaScript in the browser and Node.js
