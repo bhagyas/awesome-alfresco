@@ -52,6 +52,10 @@ toc::[]
 - https://github.com/Acosix/alfresco-mt-support[alfresco-mt-support] - Adding missing multi-tenancy support for various subsystems and features
 - https://github.com/davidantonlou/KafkaAlfrescoModule[Kafka Alfresco Module] - Add support for Apache Kafka to Alfresco.
 
+=== Command Line Interfaces and Management Tools
+- https://github.com/bhagyas/alfresco-cli[Alfresco CLI] - Command line interface for Alfresco with navigation and information listing.
+- https://github.com/bmejias/alfresco-shell-tools[Alfresco Shell Tools] - Command line tools to admin Alfresco. Migrated from Google Code
+
 === Custom Builds
 - https://github.com/loftuxab/alfresco-community-loftux[LXCommunity ECM] - Open source custom build of Alfresco Community with commercial support and built-in Swedish language pack
 
@@ -157,7 +161,6 @@ toc::[]
 - https://github.com/Open-Wide/alfresco-etl-connector[Alfresco ETL Connector] - The ETL Connector extension for Alfresco allows to import documents in an Alfresco repository by using compatible ETL Tools.
 - https://github.com/jottley/alfresco-maxversion-policy[Alfresco Max Version Policy] - Alfresco Max Version Policy limits the number of versions that are created for a versioned node.
 - https://github.com/keensoft/alfresco-myfiles-quota[Alfresco My Files Quota] - Define quota policies on My Files folder for each user
-- https://github.com/bmejias/alfresco-shell-tools[Alfresco Shell Tools] - Command line tools to admin Alfresco. Migrated from Google Code
 - https://github.com/Redpill-Linpro/alfresco-systemmessages[Alfresco System Messages]
 - https://github.com/Redpill-Linpro/alfresco-system-usage-statistics[Alfresco System Usage Statistics]
 - https://github.com/atolcd/alfresco-audit-share[AuditShare for Alfresco] - displays sites and repository usage info.
