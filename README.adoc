@@ -34,13 +34,15 @@ toc::[]
 - https://github.com/smartinm/drupal-alfresco[Drupal Alfresco] - Alfresco module provides integration between Drupal and Alfresco Enterprise Content Management System.
 - https://github.com/MajesticComputerTechnology/alfrescodoc-joomla[AlfrescoDoc for Joomla] - A Joomla module to display document from alfresco.
 - https://github.com/MajesticComputerTechnology/alfrescodoc-wordpress[AlfrescoDoc for Wordpress] - A WordPress Plugin to display document from alfresco.
+- https://github.com/AthabascaUniversity/alfresco-jcr[Alfresco JCR Support] - Adds JCR support back to Alfresco
 
 === Content Stores
 - https://github.com/douglascrp/alfresco-cloud-store[Alfresco Cloud Store] - Migrated from Google Code
 - https://github.com/rmberg/alfresco-s3-adapter[alfresco-s3-adapter] - Alfresco AMP Module for S3 Backed Storage
 - https://github.com/Gagravarr/AlfrescoCompressingContentStore[Compressing Content Store for Alfresco] - An Alfresco ContentStore implementation, which compresses certain mime types (but not others)
-- https://github.com/AFaust/simple-content-stores[Simple Content Stores] - Addon to provide a set of common content store implementations and easy-to-use configuration (no Spring config)
 - https://github.com/jeci-sarl/alfresco-object-storage-connectors[Object Storage Connectors for Alfresco] - This project provides connectors to use Alfresco with Content Store based on Software Defined Storage. Currently 3 connectors for: Red Hat Ceph Storage, OpenIO and Openstack Swift
+- https://github.com/AFaust/simple-content-stores[Simple Content Stores] - Addon to provide a set of common content store implementations and easy-to-use configuration (no Spring config)
+
 
 === Classification and OCR
 - https://github.com/keensoft/alfresco-google-vision[Alfresco Google Vision] - Google Vision API integration in Alfresco
