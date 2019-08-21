@@ -88,7 +88,9 @@ toc::[]
 - https://github.com/wrighting/upgrade-assist[upgrade-assist] - Help identifying what to do when upgrading a war overlay project
 
 === Development Tools
+- https://github.com/bhagyas/alfresco-swagger-gen[alfresco-swagger-gen] - OpenAPI (Swagger) Document generator for Alfresco Webscripts
 - https://github.com/aitseitz/intellij-http-rest-client-for-alfresco-rest-api[intellij-http-rest-client-for-alfresco-rest-api] - Alfresco HTTP REST Client for IntelliJ IDEA 
+
 
 === Deployment and Installation
 - https://github.com/loftuxab/alfresco-docker[Alfresco Docker] - Docker images for Alfresco provided by Loftux AB
