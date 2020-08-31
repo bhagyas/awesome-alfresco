@@ -118,6 +118,7 @@ toc::[]
 === Documents
 - https://github.com/ntmcminn/alfresco-pdf-toolkit[Alfresco PDF Toolkit] - Migrated project from Google Code
 - https://github.com/loftuxab/alfresco-pdf-toolkit[Alfresco PDF Toolkit - Loftux maintained fork] - Maintained fork of Alfresco PDF Toolkit
+- https://github.com/OrderOfTheBee/alfresco-pdf-toolkit[Alfresco PDF Toolkit - OOTB Maintained fork] - OOTB Maintained fork of Alfresco PDF Toolkit
 
 === Email
 - https://github.com/malariagen/alfresco-discussions[Alfresco Discussions] - Send an email to all site members whenever a discussion topic is created/updated. This extension also allows you to reply to the notification via email
