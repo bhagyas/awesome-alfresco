@@ -96,6 +96,7 @@ toc::[]
 
 
 === Deployment and Installation
+- https://github.com/jpotts/ansible-alfresco[Ansible Alfresco] - Ansible Recipes for Alfresco
 - https://github.com/dgradecak/alfresco-mvc-actuators[Alfresco MVC Actuators] - Spring Boot like Actuators for Alfresco Content Services
 - https://github.com/loftuxab/alfresco-docker[Alfresco Docker] - Docker images for Alfresco provided by Loftux AB
 - https://github.com/loftuxab/alfresco-ubuntu-install[Alfresco Ubuntu Install] - Install a production ready Alfresco on Ubuntu 14.04 onwards.
