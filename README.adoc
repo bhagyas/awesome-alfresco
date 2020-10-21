@@ -154,6 +154,7 @@ toc::[]
 - https://github.com/ITDSystems/alvex-datagrid[Alvex Datagrid] - Can be used in place of Alfresco default datagrid with additional features
 - https://github.com/ITDSystems/alvex-masterdata[Alvex Masterdata] - Extends default Alfresco content model LIST constraints to use dynamic and external lists of values.
 - https://github.com/ITDSystems/alvex-orgchart[Alvex Orgchart] - Extends standard Alfresco users and groups functionality by adding complete organizational chart that is more convenient for business users than flat groups.
+- https://gist.github.com/howkymike/2599efe5abe0c0461825354e967ef74d[Document preview while editing tasks] - Adds **Preview** action to the attached documents while editing tasks.
 
 === Integrations
 - https://github.com/zaizi/marklogic-alfresco-integration[Marklogic Alfresco Integration]
@@ -228,6 +229,7 @@ toc::[]
 - https://github.com/loftuxab/alfresco-favorite-folders-dashlet[Alfresco Favorite Folders Dashlet] - Adds favorite folder dashlet to Alfresco Share
 - https://github.com/atolcd/alfresco-event-scheduling[Event Scheduling Dashlet] - This extension allows you to plan events directly from a Share dashlet (the dashlet can be added, either on a user or on a site dashboard).
 - https://github.com/share-extras/notice-dashlet[Notice Dashlet] - Dashlet to display a user-defined piece of content on a user or a site dashboard
+- https://github.com/howkymike/alfresco-workflow-summary[Workflow Summary Dashlet] - Dashlet to display a list of workflows with the filtering options.
 
 === Transformers and Previewers
 - https://github.com/loftuxab/alfresco-vector-transformations-module[Alfresco Vector Transformations Module] - Adding support for vector file transformations in Alfresco including DWG and SVG
