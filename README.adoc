@@ -124,12 +124,14 @@ toc::[]
 === Email
 - https://github.com/malariagen/alfresco-discussions[Alfresco Discussions] - Send an email to all site members whenever a discussion topic is created/updated. This extension also allows you to reply to the notification via email
 - https://github.com/deas/contentreich-eml[Alfresco RFC822/EML tweaks] - Alfresco RFC822/EML tweaks
-- https://github.com/jpotts/share-inbound-invites[Inbound Invites] - send calendar invitations to an Alfresco Share site
+- https://github.com/jpotts/share-inbound-invites[Inbound Invites] - Send calendar invitations to an Alfresco Share site and have those events show up on the Share calendar
 
 === Encryption
 - https://github.com/keensoft/alfresco-ciphering[Alfresco Ciphering] - Alfresco Action to cipher & decipher the content of the files by using a password
 - https://github.com/thinhnk55/Alfresco-Encryption-Module[Alfresco Encryption Module] - Extends features of Alfresco system, which allows users to encrypt and decrypt their data on repository. 
 
+=== Events
+- https://github.com/jpotts/alfresco-kafka[Alfresco Kafka] - An add-on that publishes events to a Kafka topic when nodes are created, updated, or deleted.
 
 === External App Development
 - https://github.com/Alfresco/alfresco-js-api[Alfresco JS API] - Alfresco API for JavaScript in the browser and Node.js
@@ -209,6 +211,9 @@ toc::[]
 - https://github.com/cetra3/onlyoffice-alfresco[Alfresco OnlyOffice Integration] - This Share plugin enables users to edit Office documents within ONLYOFFICE from Alfresco Share.
 - https://github.com/CesarCapillas/alfresco-share-online-edition-addon[Online edition with Libreoffice in Alfresco Share] - Online edition with Libreoffice in Alfresco Share
 
+=== Permissions
+- https://github.com/Conexiam/alfresco-acl-templates[Alfresco ACL Templates] - An add-on that can be used to add ACL template functionality to the repository.
+
 === Records Management
 - https://github.com/Alfresco/records-management[Alfresco Records Management] - Offical Alfresco Records Management Community Source Code 
 
@@ -218,12 +223,15 @@ toc::[]
 
 === Share
 - https://github.com/fmaul/alfresco-default-user-avatars[Alfresco Default User Avatars] - Alfresco module that creates color coded avatars for users without a personal profile picture
+- https://github.com/jpotts/alfresco-mention[Alfresco Mention] - An Alfresco add-on that enables users to notify each other using @mentions.
 - https://github.com/fmaul/alfresco-share-clipboard[Alfresco Share Clipboard] - This extensions adds a Clipboard to the Alfresco Share document library that allows collecting documents.
 - https://github.com/jpotts/share-site-creators[Alfresco Share Site Creators] - An Alfresco add-on that limits site creation to those in a specific group.
 - https://github.com/douglascrp/alfresco-share-site-logo-customization[Alfresco Share Site Logo Customization] - This addon will allow you to set a different logo for each Alfresco Site
 - https://github.com/atolcd/alfresco-unzip-action[Alfresco Unzip Action] - This extension allows you to add "Unzip" action in Alfresco Share Document Library web tier (available in both Document Library site and repository).
 - https://github.com/share-extras/geo-views[Geo Views add-on for Alfresco Share] - Map-based views of geotagged content items in Share, plus support for adding/modifying geotags via a map interface
 - https://github.com/zylklab/alfresco-share-send-link-by-email[Send Link by email action] - Alfresco Share action for copying an Alfresco Link directly in email client.
+- https://github.com/jpotts/share-announcements[Share Announcements] - Alfresco Share add-on that makes it easy to display announcements on the Share login page.
+- https://github.com/jpotts/share-site-space-templates[Share Site Space Templates] - An Alfresco add-on that makes it easy to bootstrap Share sites with a default directory structure.
 
 === Share Dashlets
 - https://github.com/loftuxab/alfresco-favorite-folders-dashlet[Alfresco Favorite Folders Dashlet] - Adds favorite folder dashlet to Alfresco Share
@@ -232,6 +240,7 @@ toc::[]
 - https://github.com/howkymike/alfresco-workflow-summary[Workflow Summary Dashlet] - Dashlet to display a list of workflows with the filtering options.
 
 === Transformers and Previewers
+- https://github.com/jpotts/alfresco-markdown-transformer[Alfresco Markdown Transformer] - Transforms markdown to HTML using Flexmark
 - https://github.com/loftuxab/alfresco-vector-transformations-module[Alfresco Vector Transformations Module] - Adding support for vector file transformations in Alfresco including DWG and SVG
 - https://github.com/loftuxab/media-viewers[Loftux Media Viewers for Alfresco Share] - Loftux maintained fork of Alfresco Media Viewers add-on with additional viewers
 - https://github.com/cetra3/md-preview[MD Preview] - Markdown Previews and Editing for Alfresco Share
@@ -259,6 +268,7 @@ toc::[]
 
 === Other
 - https://github.com/davidantonlou/alfrescoPhotoAnalyzer[Alfresco Photoanalyzer] - Alfresco add-on to analyze people photos and extract information about the gender, the age, face expressions, emotions and others using Microsoft Cognitive API.
+- https://github.com/jpotts/alfresco-rule-management[Alfresco Rule Management] - Alfresco add-on that establishes a REST API for working with folder rules.
 - https://github.com/Redpill-Linpro/Alfresco-Tooling[Alfresco Tooling] - Common Alfresco tooling, scripts and test setups.
 - https://addons.alfresco.com/addons/slack-bot-alfresco[Slack Bot for Alfresco] - a simple chatbot for Slack that connects to your Alfresco instance and provides some handy functionality
 
