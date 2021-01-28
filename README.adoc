@@ -55,6 +55,7 @@ toc::[]
 === Clustering and Multitenancy
 - https://github.com/Redpill-Linpro/alfresco-cluster-probe[Alfresco Cluster Probe] - Cluster probe addon for Alfresco. Enables cluster members to be removed from the cluster at runtime.
 - https://github.com/Acosix/alfresco-mt-support[alfresco-mt-support] - Adding missing multi-tenancy support for various subsystems and features
+- https://github.com/ecm4u/alfresco-ldapmt[Alfresco LDAP Multi-Tenancy Subsystem] - Add LDAP auth and sync support for multi-tenancy using naming conventions to avoid tenant specific conigurations
 - https://github.com/davidantonlou/KafkaAlfrescoModule[Kafka Alfresco Module] - Add support for Apache Kafka to Alfresco.
 
 === Command Line Interfaces and Management Tools
