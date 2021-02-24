@@ -161,6 +161,7 @@ toc::[]
 
 === Integrations
 - https://github.com/zaizi/marklogic-alfresco-integration[Marklogic Alfresco Integration]
+- https://github.com/asauvez/alfresco-graphql[Alfresco GraphQL Integration]
 
 === Language Packs
 - https://github.com/Mihailo-Pupin-Institute/alfresco-serbian-language-pack[Serbian] - Serbian Language pack for Alfresco
