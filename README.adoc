@@ -106,6 +106,7 @@ toc::[]
 - https://github.com/Alfresco/chef-alfresco[Chef Alfresco] - A build automation tool that provides a modular, configurable and extensible way to install an Alfresco architecture
 - https://github.com/marsbard/puppet-alfresco[Puppet Alfresco] - Puppet Build Script for Alfresco
 - https://github.com/stigkj/vagrant-alfresco[Vagrant Alfresco] - Project for starting up an Alfresco instance inside a Vagrant VM
+- https://github.com/saidone75/vagralf[Vagralf] - Vagrant shell provisioner for Alfresco Content Services
 
 === Docker Based Deployment
 - https://github.com/loftuxab/alfresco-docker[Alfresco Docker] - Docker images for Alfresco provided by Loftux AB
