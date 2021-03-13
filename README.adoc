@@ -22,6 +22,7 @@ toc::[]
 - https://github.com/keensoft/alfresco-agreement-filter[alfresco-agreement-filter] - This extension adds a must read page for every user before starting to use Alfresco.
 - https://github.com/share-extras/share-oauth[Share oAuth] - Spring Surf extension allowing remote endpoints to be easily set up against OAuth 1.0 and OAuth 2.0 services
 - https://github.com/gdepourtales/share-oauth-sso[Share oAuth SSO] - Alfresco Share OAuth SSO Support
+- https://github.com/saidone75/alfresco-totp-authenticator[Alfresco TOTP Authenticator] - Time-based One-Time Password two factor authentication
 
 === Backup and Restore
 - https://github.com/toniblyx/alfresco-backup-and-recovery-tool[Alfresco BART - Backup and Recovery Tool] - Alfresco BART is a tool written in shell script on top of Duplicity for doing Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
@@ -105,6 +106,7 @@ toc::[]
 - https://github.com/Alfresco/chef-alfresco[Chef Alfresco] - A build automation tool that provides a modular, configurable and extensible way to install an Alfresco architecture
 - https://github.com/marsbard/puppet-alfresco[Puppet Alfresco] - Puppet Build Script for Alfresco
 - https://github.com/stigkj/vagrant-alfresco[Vagrant Alfresco] - Project for starting up an Alfresco instance inside a Vagrant VM
+- https://github.com/saidone75/vagralf[Vagralf] - Vagrant shell provisioner for Alfresco Content Services
 
 === Docker Based Deployment
 - https://github.com/loftuxab/alfresco-docker[Alfresco Docker] - Docker images for Alfresco provided by Loftux AB
