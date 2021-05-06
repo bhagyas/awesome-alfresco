@@ -91,6 +91,7 @@ toc::[]
 - https://github.com/rubble/alfresco-share-reactjs[Alfresco Share ReactJS] - An Alfresco AIO starter kit to start creating Alfresco Share widgets with ReactJS
 - https://github.com/Acosix/alfresco-utility[Alfresco Utility] - Project to consolidate abstract utility features that may be reused across functional Alfresco modules
 - https://github.com/wrighting/upgrade-assist[upgrade-assist] - Help identifying what to do when upgrading a war overlay project
+- https://github.com/FlexSolution/AlfrescoShareReactPageSample[AlfrescoShareReactPageSample] - Using Alfresco Share with React
 
 === Development Tools
 - https://github.com/bhagyas/alfresco-swagger-gen[alfresco-swagger-gen] - OpenAPI (Swagger) Document generator for Alfresco Webscripts
