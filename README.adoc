@@ -222,6 +222,9 @@ toc::[]
 === Records Management
 - https://github.com/Alfresco/records-management[Alfresco Records Management] - Offical Alfresco Records Management Community Source Code 
 
+=== Security 
+- https://github.com/keensoft/alfresco-mimetype-blocker[Alfresco: Mime Type Blocker] - Blocks specified content mimetypes from being uploaded to the Alfresco repository.
+
 === Share Add-ons
 - https://github.com/loftuxab/permission-label[Alfresco Permission Labels] - Displays user permission levels in Document Library Views as a label
 - https://github.com/Acosix/alfresco-site-hierarchy[alfresco-site-hierarchy] - Addon that allows creating hierarchies of sites as secondary structures and provides some common automatisms for site hierarchies
