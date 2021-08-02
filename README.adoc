@@ -262,6 +262,10 @@ toc::[]
 - https://github.com/jpotts/alfresco-developer-series[Alfresco Developer Series] - Source code from Alfresco Developer Series tutorials by Jeff Potts
 - https://github.com/ohej/alfresco-tutorials[Alfresco Tutorials] - Source for Alfresco Tutorials written by Ole Hejlskov.
 - https://github.com/jpotts/alfresco-api-java-examples[Alfresco API Java Examples] - Examples showing how to hit the Alfresco Public API using Java.
+- https://github.com/abhinavmishra14/change-acs-share-port-demo[Change ACS, Share, ASS and DB default ports] - Source and reference for changing default ports in containerized environment.
+- https://github.com/abhinavmishra14/alfresco62ga-solr-dist-setup[Install Alfresco 6.x and all other components] - Source and reference for installing ACS6.x, ASS1.4.x and all other components using distribution package step by step.
+- https://github.com/abhinavmishra14/alfresco7-solr-localtransform-dist-setup[Install Alfresco 7.x with Local Transformation Service and all other components] - Source and reference for installing ACS7.x, ASS2.0.x, Local Tranformation Service and all other components using distribution package step by step.
+
 
 === Visualisations
 - https://github.com/bhagyas/alfresco-visualization-tools[Alfresco Visualization Tools] - Includes dashlets to view and visualize content within Alfresco repositories using D3.js and Simile Project.
@@ -269,6 +273,7 @@ toc::[]
 
 === Wiki and Documentation
 - https://github.com/loftuxab/manual-manager[Manual Manager for Alfresco] - Create documentation and manuals system based on markdown inside your Alfresco
+
 
 === Workflow
 - https://github.com/Activiti[Activiti] - Activiti Workflow
