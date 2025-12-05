@@ -213,7 +213,7 @@ toc::[]
 - https://github.com/cetra3/etherpad-alfresco[Alfresco Etherpad Integration] - Alfresco to Etherpad integration
 - https://github.com/Alfresco/google-docs[Alfresco Google Docs] - Alfresco Google Docs integration
 - https://github.com/Redpill-Linpro/alfresco-libreoffice-online-edit[Alfresco LibreOffice Online Editing] - A LibreOffice Online Edit Module for Alfresco
-- https://github.com/cetra3/onlyoffice-alfresco[Alfresco OnlyOffice Integration] - This Share plugin enables users to edit Office documents within ONLYOFFICE from Alfresco Share.
+- https://github.com/ONLYOFFICE/onlyoffice-alfresco[ONLYOFFICE module package for Alfresco] - This plugin allows users to edit and collaborate on office documents in Alfresco Share using ONLYOFFICE Docs.
 - https://github.com/CesarCapillas/alfresco-share-online-edition-addon[Online edition with Libreoffice in Alfresco Share] - Online edition with Libreoffice in Alfresco Share
 
 === Permissions
