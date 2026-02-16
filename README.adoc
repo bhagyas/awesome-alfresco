@@ -26,6 +26,7 @@ toc::[]
 
 === Backup and Restore
 - https://github.com/toniblyx/alfresco-backup-and-recovery-tool[Alfresco BART - Backup and Recovery Tool] - Alfresco BART is a tool written in shell script on top of Duplicity for doing Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
+- https://github.com/vipulswarup/alfresco-largecontentstore-backup[Alfresco Large Contentstore Backup] - Multi-threaded Python backup tool for large Alfresco content stores to local storage or S3.
 
 === Benchmark
 - https://github.com/AlfrescoBenchmark[Alfresco Benchmark] - Alfresco Benchmark framework, utilities and load tests: a scalable load test suite
